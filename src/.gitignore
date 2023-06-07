@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+bin/
+lib/
+lib64/
+
+# Flask
+instance/
+.wsgi/
+.pytest_cache/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.pyc
+
+# Others
+*.sqlite3
+*.DS_Store
