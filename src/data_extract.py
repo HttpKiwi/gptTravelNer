@@ -64,9 +64,8 @@ def ent_from_data(entities, ent_type):
             case "DESTINATION":
                 matched = find_closest_object(ent, destinations, "value")
                 return {
-                    "destination": matched["key"],
-                    "location": matched["value"],
-                    "origin": "CLO",
+                    "destination": {"IATA": matched["key"], "name": matched["value"]},
+                    "origin": {"IATA": "CLO", "name": "Cali"},
                 }
             case "DAYS":
                 return {"duration": int(ent)}
@@ -79,7 +78,8 @@ def ent_from_data(entities, ent_type):
                 ammenities = []
                 for am in ent:
                     ammenities.append(find_closest_object(am, ammenity_list, "value"))
-                return {"features": ammenities}
+                keys = [item["key"] for item in ammenities]
+                return {"features": keys}
             case "AIRLINE":
                 airlines_list = []
                 for air in ent:

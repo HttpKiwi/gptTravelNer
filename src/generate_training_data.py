@@ -200,6 +200,9 @@ def create_artificial_queries():
     queries = []
     temp_query = ""
 
+    # TODO: regiones
+    # TODO: superhost
+    # TODO: intermediarios
     for n in range(400):
         destination = get_random(places)
         completion = ""

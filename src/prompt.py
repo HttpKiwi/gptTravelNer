@@ -14,7 +14,5 @@ def ner(prompt):
     )
 
     # TODO: Geografia
-    # TODO: Implementar un aproximador de strings para determinar cual es el mas aproximado que hay entre toda la lista de parametros
-    # TODO: Implementar API
 
     return extract_type(response["choices"][0]["text"])
