@@ -1,4 +1,4 @@
-from utils import load_data, save_jsonl
+from src.utils import load_data, save_jsonl
 
 data = load_data("training_data/training_set.json")
 

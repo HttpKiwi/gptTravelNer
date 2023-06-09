@@ -1,4 +1,4 @@
-from utils import save_jsonl, load_data
+from src.utils import save_jsonl, load_data
 import random
 
 verbs = load_data("data/verb.json")

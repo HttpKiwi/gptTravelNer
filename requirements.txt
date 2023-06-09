@@ -4,3 +4,4 @@ rapidfuzz
 dateparser 
 flask 
 flask-cors
+gunicorn

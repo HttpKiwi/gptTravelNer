@@ -1,5 +1,9 @@
 import openai
-from data_extract import extract_type
+import os
+from src.data_extract import extract_type
+
+api_key = os.getenv("API_KEY")
+openai.api_key = api_key
 
 
 def ner(prompt):

@@ -1,6 +1,6 @@
 import re
 import dateparser
-from utils import load_data, find_closest_object
+from src.utils import load_data, find_closest_object
 
 people = load_data("data/people.json")
 destinations = load_data("data/place.json")

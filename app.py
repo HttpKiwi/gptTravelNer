@@ -1,10 +1,7 @@
-import json
-import time
 from flask import Flask, request, jsonify
-from prompt import ner
+from src.prompt import ner
 from flask_cors import CORS
-
-from api import minizinc_api
+from src.api import minizinc_api
 
 # from train import test
 app = Flask(__name__)
