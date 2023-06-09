@@ -3,6 +3,7 @@ import time
 from flask import Flask, request, jsonify
 from prompt import ner
 from flask_cors import CORS
+
 from api import minizinc_api
 
 # from train import test
@@ -20,8 +21,6 @@ def hello():
 @app.route("/test/<query>", methods=["GET"])
 def test(query):
     res = ner(query)
-    # mzc = minizinc_api(res)
-    # print(json.dumps(mzc))
     return jsonify(res)
 
 
