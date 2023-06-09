@@ -2,7 +2,7 @@ import openai
 import os
 from src.data_extract import extract_type
 
-api_key = os.getenv("API_KEY")
+api_key = os.environ["API_KEY"]
 openai.api_key = api_key
 
 
