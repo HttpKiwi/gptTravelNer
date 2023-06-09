@@ -1,5 +1,4 @@
 import json
-from tqdm import tqdm
 from rapidfuzz import process
 
 
