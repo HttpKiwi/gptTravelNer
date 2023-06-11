@@ -18,7 +18,7 @@ def parse_dates(dates):
 
 entity_types = [
     "EVENT",
-    "PEOPLE",
+    "PERSON",
     "DATE",
     "VALUE",
     "AIRLINE",
@@ -29,16 +29,18 @@ entity_types = [
     "ADULTS",
     "CHILDREN",
     "INFANTS",
+    "ORIGIN",
 ]
 
 
 def extract_type(completion):
     entities = {}
-    print(completion)
     for ent_type in entity_types:
         regex_pattern = rf"{ent_type}:\s*\['(.*?)'\]"
         matches = re.findall(regex_pattern, completion)
         if matches:
+            if ent_type == "PERSON":
+                print(matches)
             if ent_type == "DATE":
                 entities[ent_type] = parse_dates(matches)
             elif ent_type in ["AMMENITY", "AIRLINE"]:
@@ -51,10 +53,9 @@ def extract_type(completion):
 
 def ent_from_data(entities, ent_type):
     ent = entities.get(ent_type)
-    print(ent)
     if ent:
         match ent_type:
-            case "PEOPLE":
+            case "PERSON":
                 return {"adults": find_closest_object(ent, people, "value")["amount"]}
             case "DATE":
                 return {
@@ -64,9 +65,12 @@ def ent_from_data(entities, ent_type):
             case "DESTINATION":
                 matched = find_closest_object(ent, destinations, "value")
                 return {
-                    "destination": {"IATA": matched["key"], "name": matched["value"]},
-                    "origin": {"IATA": "CLO", "name": "Cali"},
+                    "destination": {"IATA": matched["key"], "name": matched["value"]}
                 }
+            case "ORIGIN":
+                print(ent)
+                matched = find_closest_object(ent, destinations, "value")
+                return {"origin": {"IATA": matched["key"], "name": matched["value"]}}
             case "DAYS":
                 return {"duration": int(ent)}
             case "VALUE":
@@ -104,7 +108,6 @@ def translate_object(obj):
 
     for ent_type in entity_types:
         temp = ent_from_data(obj, ent_type)
-        print(temp)
         if ent_type == "AIRLINE":
             airline_list = temp
             continue
@@ -147,5 +150,6 @@ def airlines_list(air_list, incl):
     checkin: checkin,   
     checkout: checkout,
     adults: '1',
+
     children: '0',
 } """

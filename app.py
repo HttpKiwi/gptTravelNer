@@ -15,7 +15,7 @@ def hello():
     return "Hello! I see you're using %s" % user_agent
 
 
-@app.route("/test/<query>", methods=["GET"])
+@app.route("/ner/<query>", methods=["GET"])
 def test(query):
     res = ner(query)
     return jsonify(res)
@@ -29,4 +29,4 @@ def check_in(query):
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)

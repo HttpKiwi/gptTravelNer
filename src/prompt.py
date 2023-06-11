@@ -8,7 +8,7 @@ openai.api_key = api_key
 
 def ner(prompt):
     response = openai.Completion.create(
-        model="ada:ft-travelai-2023-06-06-23-12-58",
+        model="ada:ft-travelai-2023-06-11-18-18-38",
         prompt=f"""{prompt}\n\n###\n\n""",
         max_tokens=1000,
         temperature=0.2,

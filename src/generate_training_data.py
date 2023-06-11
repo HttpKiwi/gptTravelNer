@@ -30,6 +30,36 @@ def get_random(arr):
     return arr[random.randint(0, len(arr) - 1)]["value"]
 
 
+def get_random_origin():
+    if coin_flip():
+        rand_string = [
+            "desde",
+            "desde el aeropuerto de",
+            "viajo desde",
+            "viajamos desde",
+            "saliendo de",
+            "salimos de",
+            "partiendo de",
+            "originario de",
+            "con salida desde",
+            "iniciando el viaje desde",
+            "empezando en",
+            "tomando el vuelo desde",
+            "arrancando desde",
+            "comenzando en",
+            "con origen en",
+            "con partida desde",
+        ]
+
+        rand_origin = get_random(places)
+        completion = f"ORIGIN: ['{rand_origin}']"
+        query_string = f"{random.choice(rand_string)} {rand_origin}"
+
+        return query_string, completion
+
+    return "", ""
+
+
 def get_random_people():
     completion = ""
     people_string = ""
@@ -92,18 +122,35 @@ def ammenity_completion(ammenities):
 def get_airline_string():
     if coin_flip():
         rand = [
-            {"text": " con", "type": "include"},
             {
-                "text": f" con cualquier aerolinea {get_random(modifiers)}",
+                "text": [
+                    " con",
+                    " usando",
+                    " volando en",
+                    " volando con",
+                    " viajando con",
+                ],
+                "type": "include",
+            },
+            {
+                "text": [
+                    f" con cualquier aerolinea {get_random(modifiers)}",
+                    " no me gustaria viajar con",
+                    " no me gustaria viajar en",
+                ],
                 "type": "exclude",
             },
         ]
         rand_chosen = random.choice(rand)
-        airline_string, airline_type = rand_chosen["text"], rand_chosen["type"]
+
+        airline_string = random.choice(rand_chosen["text"])
+        airline_type = rand_chosen["type"]
+
         completion_airline = ""
         completion_type = ""
         for am in range(random.randint(1, 3)):
             rand_airline = get_random(airlines)
+            print(rand_airline)
             airline_string += f" {rand_airline},"
             completion_airline += f"AIRLINE: ['{rand_airline}']\n"
 
@@ -113,6 +160,22 @@ def get_airline_string():
 
 
 def get_value():
+    rand_less = random.choice(
+        [
+            "con un valor menor a",
+            "que cueste menos de",
+            "por debajo de",
+            "inferior a",
+            "menos de",
+            "no más de",
+            "que no supere",
+            "con un precio por debajo de",
+            "con un coste inferior a",
+            "con un valor que no exceda",
+            "con un importe menor a",
+            "que tenga un precio menor que",
+        ]
+    )
     val = random.randint(3, 20)
     text_val = "millones"
     multiplier = 1000000
@@ -122,8 +185,8 @@ def get_value():
         text_val = "mil"
     if coin_flip():
         if coin_flip():
-            return f" con un valor menor a {val*100000}", val * 100000
-        return f" con un valor menor a {val} {text_val}", val * multiplier
+            return f" {rand_less} {val*100000}", val * 100000
+        return f" {rand_less} {val} {text_val}", val * multiplier
     return "", ""
 
 
@@ -132,6 +195,11 @@ def days_range():
         "que dure z dias",
         "que no dure mas de z dias",
         "que tenga maxima duracion de z dias",
+        "que tenga una duración de z días",
+        "que no supere los z días de duración",
+        "que tenga una duración máxima de z días",
+        "que no exceda z días de duración",
+        "que tenga un límite de z días de duración",
     ]
     rand = random.randint(1, 13)
     rand_string = random.choice(range_texts)
@@ -203,7 +271,7 @@ def create_artificial_queries():
     # TODO: regiones
     # TODO: superhost
     # TODO: intermediarios
-    for n in range(400):
+    for n in range(600):
         destination = get_random(places)
         completion = ""
         ammenity, ammenity_comp = ran_ammenities()
@@ -218,15 +286,16 @@ def create_artificial_queries():
         event = get_random(events)
         final_destination = ""
         days_q, days_comp = days_range()
+        origin_q, origin_comp = get_random_origin()
         evt = False
         if coin_flip():
             final_destination = f"{destination} {date}"
-            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
-            completion = f"DESTINATION: ['{destination}']\n{airline_comp}{airline_incl_comp}{days_comp}VALUE: ['{num_value}']\n{date_comp}{people_comp}{complete_people_comp}{ammenity_comp}###"
+            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
+            completion = f"DESTINATION: ['{destination}']\n{airline_comp}{airline_incl_comp}{days_comp}VALUE: ['{num_value}']\n{date_comp}{origin_comp}{people_comp}{complete_people_comp}{ammenity_comp}###"
         else:
             final_destination = event
-            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{airline_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
-            completion = f"EVENT: ['{event}']\nAIRLINE: ['{airline_q}']\nVALUE: ['{num_value}']\n{people_comp}{complete_people_comp}{ammenity_comp}###"
+            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
+            completion = f"EVENT: ['{event}']\nAIRLINE: ['{airline_q}']\nVALUE: ['{num_value}']\n{people_comp}{origin_comp}{complete_people_comp}{ammenity_comp}###"
 
         training_prompt = Prompt(temp_query, completion)
         queries.append(training_prompt)
