@@ -1,6 +1,5 @@
 import re
 from src.utils import load_data, find_closest_object
-from forex_python.converter import CurrencyRates
 from src.entity_utils import parse_dates, convert
 
 
@@ -9,11 +8,6 @@ destinations = load_data("data/place.json")
 events = load_data("data/event.json")
 ammenity_list = load_data("data/ammenity.json")
 airlines = load_data("data/airline.json")
-
-
-def convert_cop_to_usd(amount_cop):
-    c = CurrencyRates()
-    return c.convert("COP", "USD", amount_cop)
 
 
 entity_types = [
