@@ -1,6 +1,8 @@
 import re
-import dateparser
 from src.utils import load_data, find_closest_object
+from forex_python.converter import CurrencyRates
+from src.entity_utils import parse_dates, convert
+
 
 people = load_data("data/people.json")
 destinations = load_data("data/place.json")
@@ -9,11 +11,9 @@ ammenity_list = load_data("data/ammenity.json")
 airlines = load_data("data/airline.json")
 
 
-def parse_dates(dates):
-    parsed_dates = []
-    for date in dates:
-        parsed_dates.append(dateparser.parse(date).isoformat())
-    return parsed_dates
+def convert_cop_to_usd(amount_cop):
+    c = CurrencyRates()
+    return c.convert("COP", "USD", amount_cop)
 
 
 entity_types = [
@@ -39,11 +39,9 @@ def extract_type(completion):
         regex_pattern = rf"{ent_type}:\s*\['(.*?)'\]"
         matches = re.findall(regex_pattern, completion)
         if matches:
-            if ent_type == "PERSON":
-                print(matches)
             if ent_type == "DATE":
                 entities[ent_type] = parse_dates(matches)
-            elif ent_type in ["AMMENITY", "AIRLINE"]:
+            elif ent_type in ["AMMENITY", "AIRLINE", "PERSON"]:
                 entities[ent_type] = matches
             else:
                 entities[ent_type] = matches[0]
@@ -56,7 +54,13 @@ def ent_from_data(entities, ent_type):
     if ent:
         match ent_type:
             case "PERSON":
-                return {"adults": find_closest_object(ent, people, "value")["amount"]}
+                total_adults = 0
+                for person in ent:
+                    temp = find_closest_object(person, people, "value")["amount"]
+                    if temp == -1:
+                        return {"adults": -1}
+                    total_adults += temp
+                return {"adults": total_adults - len(ent) + 1}
             case "DATE":
                 return {
                     "startDate": ent[0],
@@ -68,16 +72,22 @@ def ent_from_data(entities, ent_type):
                     "destination": {"IATA": matched["key"], "name": matched["value"]}
                 }
             case "ORIGIN":
-                print(ent)
                 matched = find_closest_object(ent, destinations, "value")
                 return {"origin": {"IATA": matched["key"], "name": matched["value"]}}
             case "DAYS":
                 return {"duration": int(ent)}
             case "VALUE":
-                return {"maxPrice": ent}
+                return {"maxPrice": convert(int(ent))}
             case "EVENT":
                 matched = find_closest_object(ent, events, "value")
-                return {"destination": matched["key"], "origin": "CLO"}
+                return {
+                    "destination": {
+                        "IATA": matched["key"],
+                        "name": matched["location"],
+                    },
+                    "startDate": matched["startDate"],
+                    "endDate": matched["endDate"],
+                }
             case "AMMENITY":
                 ammenities = []
                 for am in ent:

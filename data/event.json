@@ -3,138 +3,161 @@
 		"value": "Carnaval de Negros y Blancos",
 		"key": "PSO",
 		"startDate": "02-01-2024",
-		"endDate": "07-01-2024"
+		"endDate": "07-01-2024",
+		"location": "Pasto"
 	},
 	{
 		"value": "Festival Internacional de Musica",
 		"key": "CTG",
 		"startDate": "06-14-2024",
-		"endDate": "14-14-2024"
+		"endDate": "14-14-2024",
+		"location": "Cartagena"
 	},
 	{
 		"value": "Feria de Manizales",
 		"key": "MZL",
 		"startDate": "06-01-2024",
-		"endDate": "14-01-2024"
+		"endDate": "14-01-2024",
+		"location": "Manizales"
 	},
 	{
 		"value": "Fiesta de la Candelaria",
 		"key": "CTG",
 		"startDate": "26-01-2024",
-		"endDate": "02-01-2024"
+		"endDate": "02-01-2024",
+		"location": "Cartagena"
 	},
 	{
 		"value": "Carnaval de Fuego",
 		"key": "TCO",
 		"startDate": "08-02-2024",
-		"endDate": "13-02-2024"
+		"endDate": "13-02-2024",
+		"location": "Tumaco"
 	},
 	{
 		"value": "Carnaval de Barranquilla",
 		"key": "BAQ",
 		"startDate": "10-02-2024",
-		"endDate": "13-02-2024"
+		"endDate": "13-02-2024",
+		"location": "Barranquilla"
 	},
 	{
 		"value": "Festival Internacional de Cine",
 		"key": "CTG",
 		"startDate": "TBD",
-		"endDate": "TBD"
+		"endDate": "TBD",
+		"location": "Cartagena"
 	},
 	{
 		"value": "Festival Nacional de la Musica Colombiana",
 		"key": "IBE",
 		"startDate": "TBD",
-		"endDate": "TBD"
+		"endDate": "TBD",
+		"location": "Ibague"
 	},
 	{
 		"value": "Festival de la Musica Religiosa",
 		"key": "PPN",
 		"startDate": "24-03-2024",
-		"endDate": "30-03-2024"
+		"endDate": "30-03-2024",
+		"location": "Popayán"
 	},
 	{
 		"value": "Semana Santa",
 		"key": "PPN",
 		"startDate": "24-03-2024",
-		"endDate": "30-03-2024"
+		"endDate": "30-03-2024",
+		"location": "Popayán"
 	},
 	{
 		"value": "Feria Internacional del Libro",
 		"key": "BOG",
 		"startDate": "18-04-2024",
-		"endDate": "02-05-2024"
+		"endDate": "02-05-2024",
+		"location": "Bogotá"
 	},
 	{
 		"value": "Festival de la Leyenda Vallenata",
 		"key": "VUP",
 		"startDate": "26-04-2024",
-		"endDate": "30-04-2024"
+		"endDate": "30-04-2024",
+		"location": "Valledupar"
 	},
 	{
 		"value": "Festival de la Cultura Wayuu",
 		"key": "URA",
 		"startDate": "31-05-2024",
-		"endDate": "02-05-2024"
+		"endDate": "02-05-2024",
+		"location": "Uribia"
 	},
 	{
 		"value": "Festival Folclórico y Reinado Nacional del Bambuco",
 		"key": "NVA",
 		"startDate": "16-06-2023",
-		"endDate": "02-07-2023"
+		"endDate": "02-07-2023",
+		"location": "Neiva"
 	},
 	{
 		"value": "Fiestas del Mar",
 		"key": "SMR",
 		"startDate": "25-07-2023",
-		"endDate": "30-07-2023"
+		"endDate": "30-07-2023",
+		"location": "Santa Marta"
 	},
 	{
 		"value": "Feria de las Flores",
 		"key": "MDE",
 		"startDate": "28-07-2023",
-		"endDate": "07-08-2023"
+		"endDate": "07-08-2023",
+		"location": "Medellín"
 	},
 	{
 		"value": "Festival del Verano",
 		"key": "BOG",
 		"startDate": "05-08-2023",
-		"endDate": "15-08-2023"
+		"endDate": "15-08-2023",
+		"location": "Bogotá"
 	},
 	{
 		"value": "Festival Petronio Alvarez",
 		"key": "CLO",
 		"startDate": "16-08-2023",
-		"endDate": "21-08-2023"
+		"endDate": "21-08-2023",
+		"location": "Cali"
 	},
 	{
 		"value": "Festival de Jazz al Parque",
 		"key": "BOG",
 		"startDate": "09-09-2023",
-		"endDate": "10-09-2023"
+		"endDate": "10-09-2023",
+		"location": "Bogotá"
 	},
 	{
 		"value": "Festival Internacional del Teatro",
 		"key": "MZL",
 		"startDate": "03-10-2023",
-		"endDate": "09-10-2023"
+		"endDate": "09-10-2023",
+		"location": "Manizales"
 	},
 	{
 		"value": "Festival del Cine",
 		"key": "BOG",
 		"startDate": "15-11-2023",
-		"endDate": "22-11-2023"
+		"endDate": "22-11-2023",
+		"location": "Bogotá"
 	},
 	{
 		"value": "Fiestas de la Independencia",
 		"key": "CTG",
 		"startDate": "09-10-2023",
-		"endDate": "12-10-2023"
+		"endDate": "12-10-2023",
+		"location": "Cartagena"
 	},
 	{
 		"value": "Feria de Cali",
 		"key": "CLO",
 		"startDate": "25-12-2023",
-		"endDate": "30-12-2023"
+		"endDate": "30-12-2023",
+		"location": "Cali"
 	}
 ]

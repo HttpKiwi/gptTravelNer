@@ -22,6 +22,10 @@
 	{ "value": "madres", "amount": 3 },
 	{ "value": "amigos", "amount": -1 },
 	{ "value": "amigas", "amount": -1 },
-	{ "value": "solo", "amount": 1 },
-	{ "value": "sola", "amount": 1 }
+	{ "value": "hijos", "amount": -1 },
+	{ "value": "hijas", "amount": -1 },
+	{ "value": "hijo", "amount": -1 },
+	{ "value": "hija", "amount": -1 },
+	{ "value": "sobrinos", "amount": 1 },
+	{ "value": "sobrinas", "amount": 1 }
 ]
