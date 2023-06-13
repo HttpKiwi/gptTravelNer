@@ -5,7 +5,7 @@ from src.api import minizinc_api
 
 # from train import test
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
 users_seen = {}
 
 
@@ -20,6 +20,9 @@ def hello():
 def test(query):
     res = ner(query)
     return jsonify(res)
+
+
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 
 @app.route("/<query>", methods=["GET"])
