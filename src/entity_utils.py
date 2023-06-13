@@ -11,6 +11,9 @@ def convert(amount):
 
 def parse_dates(dates):
     parsed_dates = []
+    iso_dates = []
     for date in dates:
-        parsed_dates.append(dateparser.parse(date).isoformat())
-    return parsed_dates
+        temp_date = dateparser.parse(date)
+        parsed_dates.append(temp_date)
+        iso_dates.append(temp_date.isoformat())
+    return iso_dates, parsed_dates

@@ -1,4 +1,4 @@
-from src.utils import save_jsonl, load_data
+from utils import save_jsonl, load_data
 import random
 
 verbs = load_data("data/verb.json")
@@ -68,12 +68,20 @@ def get_random_people():
 
     for n in range(1, amount):
         rand_people = random.choice(people)
-        person, value = rand_people["value"], rand_people["amount"]
+        person, value, enum = (
+            rand_people["value"],
+            rand_people["amount"],
+            rand_people["enum"],
+        )
         if n == 1:
             people_string += "con mi"
-        if n == amount - 1 and amount > 1:
+        if n == amount - 1 and amount > 1 and n > 1:
             people_string += " y"
-        people_string += f" {person},"
+        if enum and coin_flip():
+            people_string += f" {random.randint(2,5)} {person},"
+        else:
+            people_string += f" {person},"
+
         if value == -1:
             needs_more_info = True
         completion += f"PERSON: ['{person}']\n"
@@ -84,18 +92,19 @@ def complete_people():
     completion = ""
     complete_string = ""
     if coin_flip():
-        adults = random.randint(1, 8)
-        children = random.randint(0, 8)
-        infants = random.randint(0, 2)
+        return "", "PEOPLE: ['familia']"
+    adults = random.randint(1, 8)
+    children = random.randint(0, 8)
+    infants = random.randint(0, 2)
 
-        completion += f"ADULTS: ['{adults}']\n"
-        complete_string += f"{adults} adultos, "
-        if children > 0:
-            complete_string += f"{children} niños, "
-            completion += f"CHILDREN: ['{children}']\n"
-        if infants > 0:
-            complete_string += f"y {infants} infantes"
-            completion += f"INFANTS: ['{infants}']\n"
+    completion += f"ADULTS: ['{adults}']\n"
+    complete_string += f"{adults} adultos, "
+    if children > 0:
+        complete_string += f"{children} niños, "
+        completion += f"CHILDREN: ['{children}']\n"
+    if infants > 0:
+        complete_string += f"y {infants} infantes"
+        completion += f"INFANTS: ['{infants}']\n"
 
     return complete_string, completion
 
@@ -150,7 +159,6 @@ def get_airline_string():
         completion_type = ""
         for am in range(random.randint(1, 3)):
             rand_airline = get_random(airlines)
-            print(rand_airline)
             airline_string += f" {rand_airline},"
             completion_airline += f"AIRLINE: ['{rand_airline}']\n"
 
@@ -212,6 +220,8 @@ def days_range():
 
 
 def get_date():
+    if random.randint(0, 10) > 7:
+        return "", "DATE: ['-1']"
     rand = random.randint(0, len(dates) - 1)
     completion = ""
     formated_dates = []
@@ -271,7 +281,7 @@ def create_artificial_queries():
     # TODO: regiones
     # TODO: superhost
     # TODO: intermediarios
-    for n in range(600):
+    for n in range(1500):
         destination = get_random(places)
         completion = ""
         ammenity, ammenity_comp = ran_ammenities()
@@ -281,6 +291,7 @@ def create_artificial_queries():
         else:
             complete_people_q, complete_people_comp = "", ""
         airline_q, airline_comp, airline_incl_comp = get_airline_string()
+        print(airline_comp)
         value, num_value = get_value()
         date, date_comp = get_date()
         event = get_random(events)
@@ -294,9 +305,9 @@ def create_artificial_queries():
             completion = f"DESTINATION: ['{destination}']\n{airline_comp}{airline_incl_comp}{days_comp}VALUE: ['{num_value}']\n{date_comp}{origin_comp}{people_comp}{complete_people_comp}{ammenity_comp}###"
         else:
             final_destination = event
-            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
-            completion = f"EVENT: ['{event}']\nAIRLINE: ['{airline_q}']\nVALUE: ['{num_value}']\n{people_comp}{origin_comp}{complete_people_comp}{ammenity_comp}###"
-
+            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
+            completion = f"EVENT: ['{event}']\n{airline_comp}{airline_incl_comp}{days_comp}\nVALUE: ['{num_value}']\n{people_comp}{origin_comp}{complete_people_comp}{ammenity_comp}###"
+        print(final_destination)
         training_prompt = Prompt(temp_query, completion)
         queries.append(training_prompt)
     return queries

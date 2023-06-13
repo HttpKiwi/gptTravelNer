@@ -1,13 +1,15 @@
 import json
-from rapidfuzz import process
+from rapidfuzz import process, fuzz, distance
 
 
 def find_closest_object(input_str, json_list, key):
     choices = [obj[key] for obj in json_list]
-    closest_match = process.extractOne(input_str, choices)
+    closest_match = process.extractOne(
+        input_str, choices, scorer=distance.JaroWinkler.normalized_distance
+    )
+    print(closest_match)
     closest_index = closest_match[2]
     closest_object = json_list[closest_index]
-    print(input_str, closest_object)
     return closest_object
 
 

@@ -9,7 +9,6 @@ events = load_data("data/event.json")
 ammenity_list = load_data("data/ammenity.json")
 airlines = load_data("data/airline.json")
 
-
 entity_types = [
     "EVENT",
     "PERSON",
@@ -26,6 +25,8 @@ entity_types = [
     "ORIGIN",
 ]
 
+temporal_duration = 3
+
 
 def extract_type(completion):
     entities = {}
@@ -34,12 +35,13 @@ def extract_type(completion):
         matches = re.findall(regex_pattern, completion)
         if matches:
             if ent_type == "DATE":
-                entities[ent_type] = parse_dates(matches)
+                entities[ent_type], dates = parse_dates(matches)
+                global temporal_duration
+                temporal_duration = abs((dates[0] - dates[1]).days)
             elif ent_type in ["AMMENITY", "AIRLINE", "PERSON"]:
                 entities[ent_type] = matches
             else:
                 entities[ent_type] = matches[0]
-
     return translate_object(entities)
 
 
@@ -107,7 +109,7 @@ def ent_from_data(entities, ent_type):
 
 def translate_object(obj):
     translated_obj = dict()
-    airline_incl = ""
+    airline_incl = "include"
     airline_list = []
 
     for ent_type in entity_types:
@@ -116,10 +118,14 @@ def translate_object(obj):
             airline_list = temp
             continue
         elif ent_type == "AIRLINE_INCL":
-            airline_incl = temp
+            airline_incl = temp if temp else "include"
+
             continue
         elif airline_incl and airline_list:
             translated_obj.update(airlines_list(airline_list, airline_incl))
+        elif ent_type == "DAYS" and temp == None:
+            temp = {"duration": temporal_duration}
+
         if temp:
             translated_obj.update(temp)
 
@@ -130,7 +136,7 @@ def airlines_list(air_list, incl):
     all_airlines = [0, 1, 2, 3, 4, 5, 6, 7]
     key_values = [item["key"] for item in air_list["airlines"]]
 
-    if incl == "include":
+    if incl["airline_incl"] == "include":
         return {"allowAerolines": key_values}
     else:
         return {
