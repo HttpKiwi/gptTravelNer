@@ -76,13 +76,21 @@ def ent_from_data(entities, ent_type):
                 return {"maxPrice": convert(int(ent))}
             case "EVENT":
                 matched = find_closest_object(ent, events, "value")
+                global temporal_duration
+                temporal_duration = abs(
+                    (matched["startDate"] - matched["endDate"]).days
+                )
+                dates_iso, dates_parse = parse_dates(
+                    [matched["startDate"], matched["endDate"]]
+                )
                 return {
                     "destination": {
                         "IATA": matched["key"],
                         "name": matched["location"],
                     },
-                    "startDate": matched["startDate"],
-                    "endDate": matched["endDate"],
+                    "startDate": dates_iso[0],
+                    "endDate": dates_iso[1],
+                    "duration": temporal_duration,
                 }
             case "AMMENITY":
                 ammenities = []

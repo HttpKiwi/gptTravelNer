@@ -5,7 +5,7 @@ from src.api import minizinc_api
 
 # from train import test
 app = Flask(__name__)
-cors = CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app)
 users_seen = {}
 
 
