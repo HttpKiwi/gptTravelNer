@@ -15,15 +15,6 @@ def hello():
     return "Hello! I see you're using %s" % user_agent
 
 
-@app.route("/ner/<query>", methods=["GET"])
-@cross_origin()
-def test(query):
-    res = ner(query)
-    response = jsonify(res)
-    response.headers.add("Access-Control-Allow-Origin", "*")
-    return jsonify(res)
-
-
 @app.route("/<query>", methods=["GET"])
 @cross_origin()
 def check_in(query):
@@ -32,6 +23,15 @@ def check_in(query):
     response = jsonify(mzc)
     response.headers.add("Access-Control-Allow-Origin", "*")
     return response
+
+
+@app.route("/ner/<query>", methods=["GET"])
+@cross_origin()
+def test(query):
+    res = ner(query)
+    response = jsonify(res)
+    response.headers.add("Access-Control-Allow-Origin", "*")
+    return jsonify(res)
 
 
 if __name__ == "__main__":
