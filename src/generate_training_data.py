@@ -91,6 +91,7 @@ def get_random_people():
 def complete_people():
     completion = ""
     complete_string = ""
+    verbs = ["Somos", "Son", "viajamos", "iremos", ""]
     if coin_flip():
         return "", "PEOPLE: ['familia']"
     adults = random.randint(1, 8)
@@ -98,7 +99,7 @@ def complete_people():
     infants = random.randint(0, 2)
 
     completion += f"ADULTS: ['{adults}']\n"
-    complete_string += f"{adults} adultos, "
+    complete_string += f"{verbs} {adults} adultos, "
     if children > 0:
         complete_string += f"{children} niños, "
         completion += f"CHILDREN: ['{children}']\n"
@@ -281,7 +282,7 @@ def create_artificial_queries():
     # TODO: regiones
     # TODO: superhost
     # TODO: intermediarios
-    for n in range(1500):
+    for n in range(3000):
         destination = get_random(places)
         completion = ""
         ammenity, ammenity_comp = ran_ammenities()
