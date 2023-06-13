@@ -3,4 +3,7 @@ env: flex
 entrypoint: gunicorn -b :$PORT app:app
 
 runtime_config:
-  operating_system: 'ubuntu22'
+  python_version: '3'
+
+manual_scaling:
+  instances: 1
