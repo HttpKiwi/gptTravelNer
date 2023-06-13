@@ -19,6 +19,8 @@ def hello():
 @cross_origin()
 def test(query):
     res = ner(query)
+    response = jsonify(res)
+    response.headers.add("Access-Control-Allow-Origin", "*")
     return jsonify(res)
 
 
@@ -27,7 +29,9 @@ def test(query):
 def check_in(query):
     res = ner(query)
     mzc = minizinc_api(res)
-    return jsonify(mzc)
+    response = jsonify(mzc)
+    response.headers.add("Access-Control-Allow-Origin", "*")
+    return response
 
 
 if __name__ == "__main__":
