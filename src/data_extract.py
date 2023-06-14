@@ -77,11 +77,11 @@ def ent_from_data(entities, ent_type):
             case "EVENT":
                 matched = find_closest_object(ent, events, "value")
                 global temporal_duration
-                temporal_duration = abs(
-                    (matched["startDate"] - matched["endDate"]).days
-                )
                 dates_iso, dates_parse = parse_dates(
                     [matched["startDate"], matched["endDate"]]
+                )
+                temporal_duration = abs(
+                    (dates_parse["startDate"] - dates_parse["endDate"]).days
                 )
                 return {
                     "destination": {
