@@ -22,7 +22,6 @@ def check_in(query):
     res = ner(query)
     mzc = minizinc_api(res)
     response = jsonify(mzc)
-    response.headers.add("Access-Control-Allow-Origin", "https://travel-frontend-httpkiwi.vercel.app")
     return response
 
 
@@ -31,7 +30,6 @@ def check_in(query):
 def test(query):
     res = ner(query)
     response = jsonify(res)
-    response.headers.add("Access-Control-Allow-Origin", "https://travel-frontend-httpkiwi.vercel.app")
     return jsonify(res)
 
 
