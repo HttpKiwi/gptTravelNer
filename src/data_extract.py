@@ -88,8 +88,8 @@ def ent_from_data(entities, ent_type):
                         "IATA": matched["key"],
                         "name": matched["location"],
                     },
-                    "startDate": dates_iso[0],
-                    "endDate": dates_iso[1],
+                    "startDate": dates_iso[1],
+                    "endDate": dates_iso[0],
                     "duration": temporal_duration,
                 }
             case "AMMENITY":
