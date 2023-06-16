@@ -16,7 +16,7 @@ def hello():
     return "Hello! I see you're using %s" % user_agent
 
 
-@app.route("/mnz/", methods=["GET"])
+@app.route("/mzn/", methods=["GET"])
 @cross_origin()
 def check_in(extratedObejct):
     mzc = minizinc_api(extratedObejct)
