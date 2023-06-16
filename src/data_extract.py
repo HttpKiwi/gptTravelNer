@@ -83,13 +83,14 @@ def ent_from_data(entities, ent_type):
                 temporal_duration = abs(
                     (dates_parse[0] - dates_parse[1]).days
                 )
+                print(dates_iso)
                 return {
                     "destination": {
                         "IATA": matched["key"],
                         "name": matched["location"],
                     },
-                    "startDate": dates_iso[1],
-                    "endDate": dates_iso[0],
+                    "startDate": dates_iso[0],
+                    "endDate": dates_iso[1],
                     "duration": temporal_duration,
                 }
             case "AMMENITY":
