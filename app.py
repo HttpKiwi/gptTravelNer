@@ -16,7 +16,7 @@ def hello():
     return "Hello! I see you're using %s" % user_agent
 
 
-@app.route("/mzn", methods=["GET"])
+@app.route("/mzn", methods=["POST"])
 @cross_origin()
 def check_in():
     data = request.get_json(force=True)
