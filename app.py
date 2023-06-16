@@ -16,10 +16,11 @@ def hello():
     return "Hello! I see you're using %s" % user_agent
 
 
-@app.route("/mzn/", methods=["GET"])
+@app.route("/mzn", methods=["GET"])
 @cross_origin()
-def check_in(extratedObejct):
-    mzc = minizinc_api(extratedObejct)
+def check_in():
+    data = request.get_json(force=True)
+    mzc = minizinc_api(data)
     response = jsonify(mzc)
     return response
 
