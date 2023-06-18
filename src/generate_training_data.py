@@ -98,8 +98,10 @@ def complete_people():
     children = random.randint(0, 8)
     infants = random.randint(0, 2)
 
+    verb = random.choice(verbs)
+
     completion += f"ADULTS: ['{adults}']\n"
-    complete_string += f"{verbs} {adults} adultos, "
+    complete_string += f"{verb} {adults} adultos, "
     if children > 0:
         complete_string += f"{children} niños, "
         completion += f"CHILDREN: ['{children}']\n"
@@ -311,8 +313,52 @@ def create_artificial_queries():
         print(final_destination)
         training_prompt = Prompt(temp_query, completion)
         queries.append(training_prompt)
-    return queries
+    save_jsonl("training_gpt.jsonl", queries)
 
+def create_training_answers_people():
+    queries = []
+
+    for n in range(400):
+        query, comp = complete_people()
+
+        prompt = f"{query}\n\n###\n\n"
+        completion = f"{comp}\n###"
+        
+        training_data = Prompt(prompt, completion)
+        print(prompt)
+        queries.append(training_data)
+
+    save_jsonl("training_person.jsonl", queries)
+
+def create_training_answers_origin():
+    queries = []
+
+    for n in range(400):
+        query, comp = get_random_origin()
+
+        prompt = f"{query}\n\n###\n\n"
+        completion = f"{comp}\n###"
+        
+        training_data = Prompt(prompt, completion)
+        print(prompt)
+        queries.append(training_data)
+
+    save_jsonl("training_origin.jsonl", queries)
+    
+def create_training_answers_duration():
+    queries = []
+
+    for n in range(400):
+        query, comp = days_range()
+
+        prompt = f"{query}\n\n###\n\n"
+        completion = f"{comp}###"
+        
+        training_data = Prompt(prompt, completion)
+        print(prompt)
+        queries.append(training_data)
+
+    save_jsonl("training_duration.jsonl", queries)
 
 def create_training_patterns():
     types = ["EVENT", "PEOPLE", "PLACE", "MODIFIER", "AIRLINE", "MONTH", "AMMENITY"]
@@ -338,7 +384,9 @@ def extract_pattern(data, type):
     return patterns
 
 
-patterns = create_artificial_queries()
-save_jsonl("training_gpt3.jsonl", patterns)
+create_artificial_queries()
+create_training_answers_people()
+create_training_answers_origin()
+create_training_answers_duration()
 """ print(patterns) """
 """ generate_rules(patterns) """

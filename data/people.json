@@ -1,6 +1,8 @@
 [
 	{ "value": "pareja", "amount": 2, "enum": false },
 	{ "value": "papa", "amount": 2, "enum": false },
+	{ "value": "papas", "amount": 3, "enum": false },
+	{ "value": "mamas", "amount": 3, "enum": false },
 	{ "value": "mama", "amount": 2, "enum": false },
 	{ "value": "familia", "amount": -1, "enum": false },
 	{ "value": "esposo", "amount": 2, "enum": false },

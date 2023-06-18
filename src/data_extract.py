@@ -25,7 +25,7 @@ entity_types = [
     "ORIGIN",
 ]
 
-temporal_duration = 3
+temporal_duration = 0
 
 
 def extract_type(completion):
@@ -37,7 +37,7 @@ def extract_type(completion):
             if ent_type == "DATE":
                 entities[ent_type], dates = parse_dates(matches)
                 global temporal_duration
-                temporal_duration = abs((dates[0] - dates[1]).days)
+                temporal_duration = abs((dates[0] - dates[1]).days) + 1
             elif ent_type in ["AMMENITY", "AIRLINE", "PERSON"]:
                 entities[ent_type] = matches
             else:
@@ -82,7 +82,7 @@ def ent_from_data(entities, ent_type):
                 )
                 temporal_duration = abs(
                     (dates_parse[0] - dates_parse[1]).days
-                )
+                ) + 1
                 print(dates_iso)
                 return {
                     "destination": {
@@ -133,7 +133,10 @@ def translate_object(obj):
         elif airline_incl and airline_list:
             translated_obj.update(airlines_list(airline_list, airline_incl))
         elif ent_type == "DAYS" and temp == None:
-            temp = {"duration": temporal_duration}
+            if temporal_duration == 0:
+                temp = {}
+            else:
+                temp = {"duration": temporal_duration}
 
         if temp:
             translated_obj.update(temp)

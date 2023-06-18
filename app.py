@@ -1,13 +1,11 @@
 from flask import Flask, request, jsonify
-from src.prompt import ner
+from src.prompt import ner, people_ner, origin_ner, duration_ner
 from flask_cors import CORS, cross_origin
 from src.api import minizinc_api
 
 # from train import test
 app = Flask(__name__)
 CORS(app)
-
-users_seen = {}
 
 
 @app.route("/")
@@ -24,14 +22,29 @@ def check_in():
     response = jsonify(mzc)
     return response
 
+@app.route("/people/<query>", methods=["GET"])
+@cross_origin()
+def people(query):
+    res = people_ner(query)
+    return jsonify(res)
 
 @app.route("/ner/<query>", methods=["GET"])
 @cross_origin()
-def test(query):
+def full(query):
     res = ner(query)
-    response = jsonify(res)
     return jsonify(res)
 
+@app.route("/origin/<query>", methods=["GET"])
+@cross_origin()
+def origin(query):
+    res = origin_ner(query)
+    return jsonify(res)
+
+@app.route("/duration/<query>", methods=["GET"])
+@cross_origin()
+def duration(query):
+    res = duration_ner(query)
+    return jsonify(res)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0", debug=True)
