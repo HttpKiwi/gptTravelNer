@@ -106,23 +106,68 @@ def complete_people():
         complete_string += f"{children} niños, "
         completion += f"CHILDREN: ['{children}']\n"
     if infants > 0:
-        complete_string += f"y {infants} infantes"
+        complete_string += f"y {infants} {random.choice(['infantes', 'bebés'])}"
         completion += f"INFANTS: ['{infants}']\n"
 
     return complete_string, completion
 
+def ran_accomodations():
+
+    if coin_flip():
+        return "", ""
+
+    query = ""
+    completion = ""
+
+    accomodations = [
+        {
+            "text": [
+                "cuartos",
+                "habitaciones",
+                "recamara",
+                "alcoba",
+                "dormitorio"
+            ],
+            "value": "ROOMS"
+        },
+        {
+            "text": [
+                "camas"
+            ],
+            "value": "BEDS"
+        },
+        {
+            "text": [
+                "baños",
+            ],
+            "value": "BATHROOMS"
+        }
+    ]
+
+    random.shuffle(accomodations)
+    query = f"con "
+    for accomodation in accomodations:
+        if coin_flip():
+            rand_name = random.choice(accomodation["text"])
+            rand_ammount = random.randint(1,10)
+            accom_type = accomodation["value"]
+            query += f"{rand_ammount} {rand_name}, "
+            completion += f"{accom_type}: ['{rand_ammount}']\n"
+
+    return query, completion
 
 def ran_ammenities():
-    ammenity_q = ""
-    ammenity_arr = []
-    for am in range(random.randint(0, 6)):
-        if am == 0:
-            ammenity_q = "con "
-        temp_ammenity = get_random(ammenities)
-        ammenity_q += f"{temp_ammenity}, "
-        ammenity_arr.append(temp_ammenity)
-    return ammenity_q, ammenity_completion(ammenity_arr)
-
+    if coin_flip():
+        ammenity_q = ""
+        ammenity_arr = []
+        for am in range(random.randint(0, 6)):
+            if am == 0:
+                ammenity_q = "con "
+            temp_ammenity = get_random(ammenities)
+            ammenity_q += f"{temp_ammenity}, "
+            ammenity_arr.append(temp_ammenity)
+        return ammenity_q, ammenity_completion(ammenity_arr)
+    return "", ""
 
 def ammenity_completion(ammenities):
     completion = ""
@@ -201,6 +246,7 @@ def get_value():
     return "", ""
 
 
+
 def days_range():
     range_texts = [
         "que dure z dias",
@@ -211,6 +257,7 @@ def days_range():
         "que tenga una duración máxima de z días",
         "que no exceda z días de duración",
         "que tenga un límite de z días de duración",
+        "z"
     ]
     rand = random.randint(1, 13)
     rand_string = random.choice(range_texts)
@@ -224,7 +271,7 @@ def days_range():
 
 def get_date():
     if random.randint(0, 10) > 7:
-        return "", "DATE: ['-1']"
+        return "", ""
     rand = random.randint(0, len(dates) - 1)
     completion = ""
     formated_dates = []
@@ -294,23 +341,22 @@ def create_artificial_queries():
         else:
             complete_people_q, complete_people_comp = "", ""
         airline_q, airline_comp, airline_incl_comp = get_airline_string()
-        print(airline_comp)
         value, num_value = get_value()
         date, date_comp = get_date()
         event = get_random(events)
         final_destination = ""
         days_q, days_comp = days_range()
         origin_q, origin_comp = get_random_origin()
+        accom_q, accom_comp = ran_accomodations()
         evt = False
         if coin_flip():
             final_destination = f"{destination} {date}"
-            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
-            completion = f"DESTINATION: ['{destination}']\n{airline_comp}{airline_incl_comp}{days_comp}VALUE: ['{num_value}']\n{date_comp}{origin_comp}{people_comp}{complete_people_comp}{ammenity_comp}###"
+            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {accom_q}{ammenity}{value}. {complete_people_q}\n\n###\n\n"
+            completion = f"DESTINATION: ['{destination}']\n{airline_comp}{airline_incl_comp}{days_comp}VALUE: ['{num_value}']\n{date_comp}{origin_comp}{people_comp}{complete_people_comp}{accom_comp}{ammenity_comp}###"
         else:
             final_destination = event
-            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {ammenity}{value}. {complete_people_q}\n\n###\n\n"
-            completion = f"EVENT: ['{event}']\n{airline_comp}{airline_incl_comp}{days_comp}\nVALUE: ['{num_value}']\n{people_comp}{origin_comp}{complete_people_comp}{ammenity_comp}###"
-        print(final_destination)
+            temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {accom_q}{ammenity}{value}. {complete_people_q}\n\n###\n\n"
+            completion = f"EVENT: ['{event}']\n{airline_comp}{airline_incl_comp}{days_comp}\nVALUE: ['{num_value}']\n{people_comp}{origin_comp}{complete_people_comp}{accom_comp}{ammenity_comp}###"
         training_prompt = Prompt(temp_query, completion)
         queries.append(training_prompt)
     save_jsonl("training_gpt.jsonl", queries)
@@ -325,7 +371,6 @@ def create_training_answers_people():
         completion = f"{comp}\n###"
         
         training_data = Prompt(prompt, completion)
-        print(prompt)
         queries.append(training_data)
 
     save_jsonl("training_person.jsonl", queries)
@@ -340,7 +385,6 @@ def create_training_answers_origin():
         completion = f"{comp}\n###"
         
         training_data = Prompt(prompt, completion)
-        print(prompt)
         queries.append(training_data)
 
     save_jsonl("training_origin.jsonl", queries)
@@ -355,10 +399,23 @@ def create_training_answers_duration():
         completion = f"{comp}###"
         
         training_data = Prompt(prompt, completion)
-        print(prompt)
         queries.append(training_data)
 
     save_jsonl("training_duration.jsonl", queries)
+
+def create_training_answers_dates():
+    queries = []
+
+    for n in range(400):
+        query, comp = get_date()
+
+        prompt = f"{query}\n\n###\n\n"
+        completion = f"{comp}###"
+        
+        training_data = Prompt(prompt, completion)
+        queries.append(training_data)
+
+    save_jsonl("training_dates.jsonl", queries)
 
 def create_training_patterns():
     types = ["EVENT", "PEOPLE", "PLACE", "MODIFIER", "AIRLINE", "MONTH", "AMMENITY"]
@@ -388,5 +445,6 @@ create_artificial_queries()
 create_training_answers_people()
 create_training_answers_origin()
 create_training_answers_duration()
+create_training_answers_dates()
 """ print(patterns) """
 """ generate_rules(patterns) """

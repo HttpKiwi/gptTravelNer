@@ -23,6 +23,9 @@ entity_types = [
     "CHILDREN",
     "INFANTS",
     "ORIGIN",
+    "BEDS",
+    "BATHROOMS",
+    "ROOMS"
 ]
 
 temporal_duration = 0
@@ -112,6 +115,13 @@ def ent_from_data(entities, ent_type):
                 return {"children": ent}
             case "INFANTS":
                 return {"infants": ent}
+            case "BEDS":
+                return {"beds": ent}
+            case "ROOMS":
+                return {"rooms": ent}
+            case "BATHROOMS":
+                return {"bathrooms": ent}
+            
             case _:
                 return {}
 

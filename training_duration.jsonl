@@ -1,0 +1,400 @@
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "2\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 10 d\u00edas\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "6\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que no dure mas de 6 dias\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 10 dias\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "9\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga un l\u00edmite de 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 11 dias\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "12\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 7 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "que dure 12 dias\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 3 dias\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que no supere los 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 9 d\u00edas\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "2\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 3 d\u00edas\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 1 dias\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 1 dias\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga un l\u00edmite de 7 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "que no exceda 9 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 8 d\u00edas\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "10\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "que tenga maxima duracion de 1 dias\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que tenga maxima duracion de 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "que dure 2 dias\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que tenga maxima duracion de 7 dias\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 10 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 9 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 9 d\u00edas\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 11 dias\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "que no exceda 4 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "que tenga maxima duracion de 6 dias\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que dure 10 dias\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 7 dias\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "9\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que tenga maxima duracion de 9 dias\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 12 d\u00edas\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 7 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "3\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "3\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 2 d\u00edas\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 12 d\u00edas\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 6 dias\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "8\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "que no dure mas de 7 dias\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 8 dias\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "6\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "7\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 10 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 7 d\u00edas\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 4 d\u00edas\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "que tenga maxima duracion de 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 5 d\u00edas\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que no dure mas de 2 dias\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 5 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 3 dias\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que no dure mas de 5 dias\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 13 d\u00edas\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "9\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 1 d\u00edas\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que no exceda 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que no dure mas de 12 dias\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 3 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 13 dias\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que no supere los 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que tenga maxima duracion de 6 dias\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que tenga maxima duracion de 10 dias\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "que no exceda 3 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga un l\u00edmite de 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "2\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 11 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 2 d\u00edas\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 3 dias\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 4 d\u00edas\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 3 d\u00edas\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 3 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 12 d\u00edas\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga un l\u00edmite de 2 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que no exceda 4 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 5 d\u00edas\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 3 d\u00edas\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "11\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 9 dias\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que no dure mas de 3 dias\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "9\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que no exceda 2 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que no exceda 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 9 dias\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que no supere los 9 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 11 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 2 dias\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 11 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 4 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "que no exceda 9 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 9 d\u00edas\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 12 dias\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 13 d\u00edas\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 2 d\u00edas\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que no dure mas de 6 dias\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que dure 5 dias\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 12 d\u00edas\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 8 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "que dure 7 dias\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no exceda 5 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 7 d\u00edas\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "3\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "11\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "9\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "4\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "12\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 13 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 11 d\u00edas\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "3\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 8 dias\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "10\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "que dure 2 dias\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 1 d\u00edas\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que no dure mas de 13 dias\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que tenga maxima duracion de 13 dias\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que no exceda 11 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 3 d\u00edas\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 9 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 1 dias\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 13 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 12 d\u00edas\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "12\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 7 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga un l\u00edmite de 5 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que no supere los 9 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 6 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga un l\u00edmite de 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "2\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 13 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 8 d\u00edas\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 7 dias\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 8 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 13 dias\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que no exceda 9 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que tenga maxima duracion de 5 dias\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que no supere los 8 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "que no supere los 11 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "que dure 3 dias\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "9\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 6 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 11 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 2 d\u00edas\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que dure 9 dias\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 1 d\u00edas\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que tenga maxima duracion de 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 5 dias\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "3\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que tenga maxima duracion de 10 dias\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 2 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "13\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que no exceda 7 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no supere los 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que no exceda 6 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 10 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "que no dure mas de 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 11 dias\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 4 d\u00edas\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "que no exceda 1 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 2 d\u00edas\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 8 d\u00edas\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 5 d\u00edas\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que no exceda 13 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 1 d\u00edas\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga una duraci\u00f3n de 3 d\u00edas\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que dure 1 dias\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 13 dias\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 13 dias\n\n###\n\n", "completion": "DAYS: ['13']\n###"} 
+{"prompt": "que no exceda 10 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['10']\n###"} 
+{"prompt": "que no exceda 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "que tenga maxima duracion de 12 dias\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 5 dias\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 9 dias\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que dure 12 dias\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 12 d\u00edas\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 11 dias\n\n###\n\n", "completion": "DAYS: ['11']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 6 d\u00edas\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 3 dias\n\n###\n\n", "completion": "DAYS: ['3']\n###"} 
+{"prompt": "que no exceda 6 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que dure 1 dias\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "6\n\n###\n\n", "completion": "DAYS: ['6']\n###"} 
+{"prompt": "2\n\n###\n\n", "completion": "DAYS: ['2']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que no dure mas de 4 dias\n\n###\n\n", "completion": "DAYS: ['4']\n###"} 
+{"prompt": "que no exceda 5 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 8 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['8']\n###"} 
+{"prompt": "que no supere los 5 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que no supere los 7 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 12 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['12']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 5 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n m\u00e1xima de 1 d\u00edas\n\n###\n\n", "completion": "DAYS: ['1']\n###"} 
+{"prompt": "que dure 9 dias\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga maxima duracion de 9 dias\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "que tenga un l\u00edmite de 7 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['7']\n###"} 
+{"prompt": "que tenga una duraci\u00f3n de 9 d\u00edas\n\n###\n\n", "completion": "DAYS: ['9']\n###"} 
+{"prompt": "que tenga un l\u00edmite de 5 d\u00edas de duraci\u00f3n\n\n###\n\n", "completion": "DAYS: ['5']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 

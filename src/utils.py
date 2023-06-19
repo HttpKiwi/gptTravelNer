@@ -7,6 +7,7 @@ def find_closest_object(input_str, json_list, key):
     closest_match = process.extractOne(
         input_str, choices, scorer=distance.JaroWinkler.normalized_distance
     )
+    print(closest_match)
     closest_index = closest_match[2]
     closest_object = json_list[closest_index]
     return closest_object

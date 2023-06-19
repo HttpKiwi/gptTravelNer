@@ -1,0 +1,400 @@
+{"prompt": "Son 3 adultos, 3 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 7 adultos, 1 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "iremos 5 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "Son 4 adultos, 2 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 4 adultos, 4 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['4']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 3 adultos, \n\n###\n\n", "completion": "ADULTS: ['3']\n\n###"} 
+{"prompt": "iremos 1 adultos, 1 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['1']\n\n###"} 
+{"prompt": "viajamos 8 adultos, 3 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 5 adultos, 8 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['8']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "iremos 4 adultos, \n\n###\n\n", "completion": "ADULTS: ['4']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 1 adultos, 3 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 7 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "Son 3 adultos, 7 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 2 adultos, 4 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['4']\n\n###"} 
+{"prompt": " 6 adultos, 2 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 8 adultos, 5 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['5']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 4 adultos, 8 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['8']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 5 adultos, 5 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 8 adultos, 5 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "iremos 2 adultos, \n\n###\n\n", "completion": "ADULTS: ['2']\n\n###"} 
+{"prompt": "Somos 8 adultos, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 7 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 2 adultos, 2 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['2']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 8 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 3 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": " 8 adultos, \n\n###\n\n", "completion": "ADULTS: ['8']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 8 adultos, 6 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 4 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "viajamos 5 adultos, 2 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 2 adultos, 2 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 8 adultos, 5 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 7 adultos, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 1 adultos, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Son 2 adultos, 3 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 4 adultos, \n\n###\n\n", "completion": "ADULTS: ['4']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 1 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "Son 3 adultos, 5 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 1 adultos, 4 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 6 adultos, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 3 adultos, 3 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": " 4 adultos, 1 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Son 6 adultos, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 2 adultos, 8 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['8']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 2 adultos, 1 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['1']\nINFANTS: ['1']\n\n###"} 
+{"prompt": " 3 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "iremos 5 adultos, 4 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "viajamos 4 adultos, 4 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "viajamos 7 adultos, 6 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Somos 1 adultos, 3 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "iremos 3 adultos, 6 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 8 adultos, 6 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 5 adultos, 3 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 5 adultos, 5 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['5']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 3 adultos, 3 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['3']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 8 adultos, 7 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Son 2 adultos, 5 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Son 1 adultos, 1 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 7 adultos, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 6 adultos, 3 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['3']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 5 adultos, 3 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['3']\n\n###"} 
+{"prompt": "viajamos 6 adultos, \n\n###\n\n", "completion": "ADULTS: ['6']\n\n###"} 
+{"prompt": "Son 4 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "iremos 8 adultos, 8 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['8']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 3 adultos, 8 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['8']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "iremos 7 adultos, 5 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['5']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 6 adultos, \n\n###\n\n", "completion": "ADULTS: ['6']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 6 adultos, 3 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Son 1 adultos, 4 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['4']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 4 adultos, 4 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['4']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 7 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 7 adultos, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 3 adultos, 6 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 8 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 6 adultos, 3 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 8 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 5 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "Somos 7 adultos, 7 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Somos 5 adultos, 6 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 3 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "Son 3 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "Son 5 adultos, 4 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 5 adultos, 4 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 4 adultos, 8 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['8']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 8 adultos, 3 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 4 adultos, 8 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['8']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 8 adultos, 8 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['8']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "viajamos 8 adultos, 1 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 1 adultos, 1 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['1']\n\n###"} 
+{"prompt": "viajamos 7 adultos, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": " 4 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 5 adultos, 2 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['2']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Son 5 adultos, 4 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['4']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 6 adultos, 3 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Son 4 adultos, 6 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 5 adultos, 7 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['7']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 6 adultos, 8 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['8']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 5 adultos, 5 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['5']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Son 8 adultos, 1 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['1']\n\n###"} 
+{"prompt": "Somos 5 adultos, 7 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 2 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "viajamos 1 adultos, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 7 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "viajamos 6 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 7 adultos, 5 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['5']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "iremos 5 adultos, 2 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 5 adultos, 7 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 1 adultos, 6 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 3 adultos, 1 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['1']\n\n###"} 
+{"prompt": "Somos 1 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "iremos 1 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "iremos 1 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "iremos 5 adultos, 5 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 2 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 5 adultos, 8 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['8']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "iremos 8 adultos, 7 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 5 adultos, 7 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['7']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 3 adultos, 6 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 2 adultos, 1 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 3 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 7 adultos, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 3 adultos, 7 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 7 adultos, 4 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 2 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 8 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 7 adultos, 1 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['1']\n\n###"} 
+{"prompt": "Somos 8 adultos, 4 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['4']\n\n###"} 
+{"prompt": "Somos 5 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 1 adultos, 4 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 4 adultos, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['4']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 6 adultos, 8 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['8']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 6 adultos, 6 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 8 adultos, 4 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['4']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 6 adultos, 3 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 1 adultos, 8 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['8']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 3 adultos, 6 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 7 adultos, 4 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['4']\n\n###"} 
+{"prompt": "viajamos 1 adultos, 6 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Son 7 adultos, 7 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['7']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 5 adultos, 7 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 4 adultos, 1 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['1']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 1 adultos, 5 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 8 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "iremos 7 adultos, 3 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Somos 1 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 5 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "iremos 7 adultos, 3 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 4 adultos, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['4']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 6 adultos, 1 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['1']\n\n###"} 
+{"prompt": "Somos 4 adultos, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Somos 2 adultos, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 7 adultos, 4 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 1 adultos, 2 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 1 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 3 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 2 adultos, 2 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['2']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 7 adultos, 2 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['2']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "viajamos 4 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 3 adultos, 1 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 4 adultos, 2 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "iremos 3 adultos, 4 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['4']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 7 adultos, 7 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Somos 8 adultos, 3 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['3']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 1 adultos, 5 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 1 adultos, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 5 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 6 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 3 adultos, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 2 adultos, 7 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Son 1 adultos, 7 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "iremos 3 adultos, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 3 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "iremos 5 adultos, 6 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['5']\nCHILDREN: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 1 adultos, 2 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['2']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "viajamos 1 adultos, 6 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 8 adultos, 4 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "iremos 3 adultos, 4 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Son 1 adultos, 4 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['4']\n\n###"} 
+{"prompt": "iremos 3 adultos, 3 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 6 adultos, \n\n###\n\n", "completion": "ADULTS: ['6']\n\n###"} 
+{"prompt": "Son 2 adultos, 6 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Son 6 adultos, 3 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['3']\n\n###"} 
+{"prompt": " 4 adultos, 3 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['3']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 8 adultos, 7 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": " 7 adultos, 7 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['7']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 7 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "viajamos 2 adultos, 3 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "Somos 3 adultos, 2 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['2']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "Somos 7 adultos, 3 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['7']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 2 adultos, 5 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['5']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 4 adultos, 6 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 4 adultos, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 3 adultos, 4 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['4']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 1 adultos, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 5 adultos, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['5']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 4 adultos, 2 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 1 adultos, 3 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['3']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "viajamos 4 adultos, 7 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['7']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "viajamos 4 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "Son 6 adultos, 5 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['5']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 4 adultos, 1 ni\u00f1os, y 2 infantes\n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['1']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 4 adultos, 7 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['7']\n\n###"} 
+{"prompt": "Son 1 adultos, 6 ni\u00f1os, y 1 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['1']\nCHILDREN: ['6']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 3 adultos, 8 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['8']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Son 3 adultos, 2 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['3']\nCHILDREN: ['2']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "Somos 8 adultos, 3 ni\u00f1os, y 1 infantes\n\n###\n\n", "completion": "ADULTS: ['8']\nCHILDREN: ['3']\nINFANTS: ['1']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": " 4 adultos, 6 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['4']\nCHILDREN: ['6']\n\n###"} 
+{"prompt": "viajamos 6 adultos, 4 ni\u00f1os, \n\n###\n\n", "completion": "ADULTS: ['6']\nCHILDREN: ['4']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 
+{"prompt": "iremos 2 adultos, 6 ni\u00f1os, y 2 beb\u00e9s\n\n###\n\n", "completion": "ADULTS: ['2']\nCHILDREN: ['6']\nINFANTS: ['2']\n\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "PEOPLE: ['familia']\n###"} 

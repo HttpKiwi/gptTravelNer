@@ -1,0 +1,400 @@
+{"prompt": "saliendo de Florencia\n\n###\n\n", "completion": "ORIGIN: ['Florencia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "empezando en Barrancabermeja\n\n###\n\n", "completion": "ORIGIN: ['Barrancabermeja']\n###"} 
+{"prompt": "salimos de San Jose del Guaviare\n\n###\n\n", "completion": "ORIGIN: ['San Jose del Guaviare']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Ipiales\n\n###\n\n", "completion": "ORIGIN: ['Ipiales']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Uribia\n\n###\n\n", "completion": "ORIGIN: ['Uribia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con origen en Maicao\n\n###\n\n", "completion": "ORIGIN: ['Maicao']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "partiendo de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "partiendo de Quibdo\n\n###\n\n", "completion": "ORIGIN: ['Quibdo']\n###"} 
+{"prompt": "viajo desde Rioacha\n\n###\n\n", "completion": "ORIGIN: ['Rioacha']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "arrancando desde Pasto\n\n###\n\n", "completion": "ORIGIN: ['Pasto']\n###"} 
+{"prompt": "arrancando desde Neiva\n\n###\n\n", "completion": "ORIGIN: ['Neiva']\n###"} 
+{"prompt": "desde el aeropuerto de Pasto\n\n###\n\n", "completion": "ORIGIN: ['Pasto']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "comenzando en Barranquilla\n\n###\n\n", "completion": "ORIGIN: ['Barranquilla']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "tomando el vuelo desde Manizales\n\n###\n\n", "completion": "ORIGIN: ['Manizales']\n###"} 
+{"prompt": "con partida desde Rioacha\n\n###\n\n", "completion": "ORIGIN: ['Rioacha']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "empezando en Bogota\n\n###\n\n", "completion": "ORIGIN: ['Bogota']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con partida desde Quibdo\n\n###\n\n", "completion": "ORIGIN: ['Quibdo']\n###"} 
+{"prompt": "comenzando en Guapi\n\n###\n\n", "completion": "ORIGIN: ['Guapi']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "tomando el vuelo desde Puerto Carreno\n\n###\n\n", "completion": "ORIGIN: ['Puerto Carreno']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Puerto Carreno\n\n###\n\n", "completion": "ORIGIN: ['Puerto Carreno']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde Tolu\n\n###\n\n", "completion": "ORIGIN: ['Tolu']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "empezando en Providencia\n\n###\n\n", "completion": "ORIGIN: ['Providencia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde Yopal\n\n###\n\n", "completion": "ORIGIN: ['Yopal']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con partida desde Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "tomando el vuelo desde Bogota\n\n###\n\n", "completion": "ORIGIN: ['Bogota']\n###"} 
+{"prompt": "empezando en Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con partida desde Arauca\n\n###\n\n", "completion": "ORIGIN: ['Arauca']\n###"} 
+{"prompt": "empezando en Monteria\n\n###\n\n", "completion": "ORIGIN: ['Monteria']\n###"} 
+{"prompt": "desde Leticia\n\n###\n\n", "completion": "ORIGIN: ['Leticia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de San Andres\n\n###\n\n", "completion": "ORIGIN: ['San Andres']\n###"} 
+{"prompt": "iniciando el viaje desde Guapi\n\n###\n\n", "completion": "ORIGIN: ['Guapi']\n###"} 
+{"prompt": "desde el aeropuerto de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "tomando el vuelo desde Maicao\n\n###\n\n", "completion": "ORIGIN: ['Maicao']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Puerto Inirida\n\n###\n\n", "completion": "ORIGIN: ['Puerto Inirida']\n###"} 
+{"prompt": "desde Leticia\n\n###\n\n", "completion": "ORIGIN: ['Leticia']\n###"} 
+{"prompt": "viajo desde Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con origen en Puerto Asis\n\n###\n\n", "completion": "ORIGIN: ['Puerto Asis']\n###"} 
+{"prompt": "con salida desde Bogota\n\n###\n\n", "completion": "ORIGIN: ['Bogota']\n###"} 
+{"prompt": "tomando el vuelo desde Medellin\n\n###\n\n", "completion": "ORIGIN: ['Medellin']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de Providencia\n\n###\n\n", "completion": "ORIGIN: ['Providencia']\n###"} 
+{"prompt": "viajamos desde Barranquilla\n\n###\n\n", "completion": "ORIGIN: ['Barranquilla']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Barranquilla\n\n###\n\n", "completion": "ORIGIN: ['Barranquilla']\n###"} 
+{"prompt": "iniciando el viaje desde Bogota\n\n###\n\n", "completion": "ORIGIN: ['Bogota']\n###"} 
+{"prompt": "viajamos desde Manizales\n\n###\n\n", "completion": "ORIGIN: ['Manizales']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Manizales\n\n###\n\n", "completion": "ORIGIN: ['Manizales']\n###"} 
+{"prompt": "arrancando desde Mitu\n\n###\n\n", "completion": "ORIGIN: ['Mitu']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde Florencia\n\n###\n\n", "completion": "ORIGIN: ['Florencia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Barrancabermeja\n\n###\n\n", "completion": "ORIGIN: ['Barrancabermeja']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con origen en Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "iniciando el viaje desde Valledupar\n\n###\n\n", "completion": "ORIGIN: ['Valledupar']\n###"} 
+{"prompt": "arrancando desde Medellin\n\n###\n\n", "completion": "ORIGIN: ['Medellin']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Pereira\n\n###\n\n", "completion": "ORIGIN: ['Pereira']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajamos desde Puerto Asis\n\n###\n\n", "completion": "ORIGIN: ['Puerto Asis']\n###"} 
+{"prompt": "viajamos desde Cali\n\n###\n\n", "completion": "ORIGIN: ['Cali']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "originario de Neiva\n\n###\n\n", "completion": "ORIGIN: ['Neiva']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "salimos de Medellin\n\n###\n\n", "completion": "ORIGIN: ['Medellin']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "comenzando en Providencia\n\n###\n\n", "completion": "ORIGIN: ['Providencia']\n###"} 
+{"prompt": "con partida desde La Macarena\n\n###\n\n", "completion": "ORIGIN: ['La Macarena']\n###"} 
+{"prompt": "empezando en Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajo desde Apartado\n\n###\n\n", "completion": "ORIGIN: ['Apartado']\n###"} 
+{"prompt": "desde Cartagena\n\n###\n\n", "completion": "ORIGIN: ['Cartagena']\n###"} 
+{"prompt": "tomando el vuelo desde Neiva\n\n###\n\n", "completion": "ORIGIN: ['Neiva']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "empezando en Caucasia\n\n###\n\n", "completion": "ORIGIN: ['Caucasia']\n###"} 
+{"prompt": "con salida desde Monteria\n\n###\n\n", "completion": "ORIGIN: ['Monteria']\n###"} 
+{"prompt": "con origen en Sincelejo\n\n###\n\n", "completion": "ORIGIN: ['Sincelejo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "tomando el vuelo desde Neiva\n\n###\n\n", "completion": "ORIGIN: ['Neiva']\n###"} 
+{"prompt": "arrancando desde Medellin\n\n###\n\n", "completion": "ORIGIN: ['Medellin']\n###"} 
+{"prompt": "tomando el vuelo desde Ipiales\n\n###\n\n", "completion": "ORIGIN: ['Ipiales']\n###"} 
+{"prompt": "tomando el vuelo desde Uribia\n\n###\n\n", "completion": "ORIGIN: ['Uribia']\n###"} 
+{"prompt": "salimos de Ibague\n\n###\n\n", "completion": "ORIGIN: ['Ibague']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajamos desde Villavicencio\n\n###\n\n", "completion": "ORIGIN: ['Villavicencio']\n###"} 
+{"prompt": "empezando en Rioacha\n\n###\n\n", "completion": "ORIGIN: ['Rioacha']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Popayan\n\n###\n\n", "completion": "ORIGIN: ['Popayan']\n###"} 
+{"prompt": "con origen en Armenia\n\n###\n\n", "completion": "ORIGIN: ['Armenia']\n###"} 
+{"prompt": "desde el aeropuerto de La Macarena\n\n###\n\n", "completion": "ORIGIN: ['La Macarena']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "empezando en Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Monteria\n\n###\n\n", "completion": "ORIGIN: ['Monteria']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con partida desde Tumaco\n\n###\n\n", "completion": "ORIGIN: ['Tumaco']\n###"} 
+{"prompt": "partiendo de Sincelejo\n\n###\n\n", "completion": "ORIGIN: ['Sincelejo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde Providencia\n\n###\n\n", "completion": "ORIGIN: ['Providencia']\n###"} 
+{"prompt": "con partida desde Puerto Carreno\n\n###\n\n", "completion": "ORIGIN: ['Puerto Carreno']\n###"} 
+{"prompt": "arrancando desde Armenia\n\n###\n\n", "completion": "ORIGIN: ['Armenia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con origen en Puerto Gaitan\n\n###\n\n", "completion": "ORIGIN: ['Puerto Gaitan']\n###"} 
+{"prompt": "viajamos desde Sincelejo\n\n###\n\n", "completion": "ORIGIN: ['Sincelejo']\n###"} 
+{"prompt": "empezando en Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Popayan\n\n###\n\n", "completion": "ORIGIN: ['Popayan']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "originario de Mocoa\n\n###\n\n", "completion": "ORIGIN: ['Mocoa']\n###"} 
+{"prompt": "con partida desde Puerto Carreno\n\n###\n\n", "completion": "ORIGIN: ['Puerto Carreno']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "iniciando el viaje desde Cucuta\n\n###\n\n", "completion": "ORIGIN: ['Cucuta']\n###"} 
+{"prompt": "con origen en Yopal\n\n###\n\n", "completion": "ORIGIN: ['Yopal']\n###"} 
+{"prompt": "salimos de Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "comenzando en Pasto\n\n###\n\n", "completion": "ORIGIN: ['Pasto']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de Puerto Gaitan\n\n###\n\n", "completion": "ORIGIN: ['Puerto Gaitan']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "salimos de Mocoa\n\n###\n\n", "completion": "ORIGIN: ['Mocoa']\n###"} 
+{"prompt": "con origen en Pitalito\n\n###\n\n", "completion": "ORIGIN: ['Pitalito']\n###"} 
+{"prompt": "saliendo de Leticia\n\n###\n\n", "completion": "ORIGIN: ['Leticia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "salimos de Arauca\n\n###\n\n", "completion": "ORIGIN: ['Arauca']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "salimos de Pereira\n\n###\n\n", "completion": "ORIGIN: ['Pereira']\n###"} 
+{"prompt": "originario de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "desde Medellin\n\n###\n\n", "completion": "ORIGIN: ['Medellin']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "comenzando en Tumaco\n\n###\n\n", "completion": "ORIGIN: ['Tumaco']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "iniciando el viaje desde Armenia\n\n###\n\n", "completion": "ORIGIN: ['Armenia']\n###"} 
+{"prompt": "desde Manizales\n\n###\n\n", "completion": "ORIGIN: ['Manizales']\n###"} 
+{"prompt": "salimos de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de Rioacha\n\n###\n\n", "completion": "ORIGIN: ['Rioacha']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Valledupar\n\n###\n\n", "completion": "ORIGIN: ['Valledupar']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con partida desde Puerto Carreno\n\n###\n\n", "completion": "ORIGIN: ['Puerto Carreno']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con partida desde Puerto Inirida\n\n###\n\n", "completion": "ORIGIN: ['Puerto Inirida']\n###"} 
+{"prompt": "viajo desde Neiva\n\n###\n\n", "completion": "ORIGIN: ['Neiva']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajo desde Armenia\n\n###\n\n", "completion": "ORIGIN: ['Armenia']\n###"} 
+{"prompt": "viajamos desde San Andres\n\n###\n\n", "completion": "ORIGIN: ['San Andres']\n###"} 
+{"prompt": "desde el aeropuerto de Cali\n\n###\n\n", "completion": "ORIGIN: ['Cali']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajo desde Popayan\n\n###\n\n", "completion": "ORIGIN: ['Popayan']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "iniciando el viaje desde Cucuta\n\n###\n\n", "completion": "ORIGIN: ['Cucuta']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de San Andres\n\n###\n\n", "completion": "ORIGIN: ['San Andres']\n###"} 
+{"prompt": "salimos de Uribia\n\n###\n\n", "completion": "ORIGIN: ['Uribia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "partiendo de Ipiales\n\n###\n\n", "completion": "ORIGIN: ['Ipiales']\n###"} 
+{"prompt": "iniciando el viaje desde Cucuta\n\n###\n\n", "completion": "ORIGIN: ['Cucuta']\n###"} 
+{"prompt": "empezando en Rioacha\n\n###\n\n", "completion": "ORIGIN: ['Rioacha']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con origen en Barrancabermeja\n\n###\n\n", "completion": "ORIGIN: ['Barrancabermeja']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Armenia\n\n###\n\n", "completion": "ORIGIN: ['Armenia']\n###"} 
+{"prompt": "salimos de Nuqui\n\n###\n\n", "completion": "ORIGIN: ['Nuqui']\n###"} 
+{"prompt": "desde Puerto Inirida\n\n###\n\n", "completion": "ORIGIN: ['Puerto Inirida']\n###"} 
+{"prompt": "saliendo de Cucuta\n\n###\n\n", "completion": "ORIGIN: ['Cucuta']\n###"} 
+{"prompt": "arrancando desde Florencia\n\n###\n\n", "completion": "ORIGIN: ['Florencia']\n###"} 
+{"prompt": "partiendo de Puerto Asis\n\n###\n\n", "completion": "ORIGIN: ['Puerto Asis']\n###"} 
+{"prompt": "salimos de Quibdo\n\n###\n\n", "completion": "ORIGIN: ['Quibdo']\n###"} 
+{"prompt": "con origen en Yopal\n\n###\n\n", "completion": "ORIGIN: ['Yopal']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "salimos de Monteria\n\n###\n\n", "completion": "ORIGIN: ['Monteria']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "iniciando el viaje desde Bogota\n\n###\n\n", "completion": "ORIGIN: ['Bogota']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde Pereira\n\n###\n\n", "completion": "ORIGIN: ['Pereira']\n###"} 
+{"prompt": "empezando en Uribia\n\n###\n\n", "completion": "ORIGIN: ['Uribia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajo desde Sincelejo\n\n###\n\n", "completion": "ORIGIN: ['Sincelejo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "empezando en San Jose del Guaviare\n\n###\n\n", "completion": "ORIGIN: ['San Jose del Guaviare']\n###"} 
+{"prompt": "con origen en Quibdo\n\n###\n\n", "completion": "ORIGIN: ['Quibdo']\n###"} 
+{"prompt": "viajo desde Villavicencio\n\n###\n\n", "completion": "ORIGIN: ['Villavicencio']\n###"} 
+{"prompt": "empezando en Santa Marta\n\n###\n\n", "completion": "ORIGIN: ['Santa Marta']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "iniciando el viaje desde Capurgana\n\n###\n\n", "completion": "ORIGIN: ['Capurgana']\n###"} 
+{"prompt": "viajamos desde Pereira\n\n###\n\n", "completion": "ORIGIN: ['Pereira']\n###"} 
+{"prompt": "desde el aeropuerto de Ipiales\n\n###\n\n", "completion": "ORIGIN: ['Ipiales']\n###"} 
+{"prompt": "desde Florencia\n\n###\n\n", "completion": "ORIGIN: ['Florencia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "tomando el vuelo desde Valledupar\n\n###\n\n", "completion": "ORIGIN: ['Valledupar']\n###"} 
+{"prompt": "arrancando desde Barranquilla\n\n###\n\n", "completion": "ORIGIN: ['Barranquilla']\n###"} 
+{"prompt": "iniciando el viaje desde Caucasia\n\n###\n\n", "completion": "ORIGIN: ['Caucasia']\n###"} 
+{"prompt": "comenzando en Popayan\n\n###\n\n", "completion": "ORIGIN: ['Popayan']\n###"} 
+{"prompt": "iniciando el viaje desde Valledupar\n\n###\n\n", "completion": "ORIGIN: ['Valledupar']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de Pasto\n\n###\n\n", "completion": "ORIGIN: ['Pasto']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "comenzando en Santa Marta\n\n###\n\n", "completion": "ORIGIN: ['Santa Marta']\n###"} 
+{"prompt": "desde el aeropuerto de Villavicencio\n\n###\n\n", "completion": "ORIGIN: ['Villavicencio']\n###"} 
+{"prompt": "empezando en Villagarzon\n\n###\n\n", "completion": "ORIGIN: ['Villagarzon']\n###"} 
+{"prompt": "viajo desde Uribia\n\n###\n\n", "completion": "ORIGIN: ['Uribia']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "con salida desde Valledupar\n\n###\n\n", "completion": "ORIGIN: ['Valledupar']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con salida desde San Andres\n\n###\n\n", "completion": "ORIGIN: ['San Andres']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "comenzando en Nuqui\n\n###\n\n", "completion": "ORIGIN: ['Nuqui']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de Villavicencio\n\n###\n\n", "completion": "ORIGIN: ['Villavicencio']\n###"} 
+{"prompt": "partiendo de Valledupar\n\n###\n\n", "completion": "ORIGIN: ['Valledupar']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "saliendo de Pereira\n\n###\n\n", "completion": "ORIGIN: ['Pereira']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "partiendo de Tumaco\n\n###\n\n", "completion": "ORIGIN: ['Tumaco']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde Cucuta\n\n###\n\n", "completion": "ORIGIN: ['Cucuta']\n###"} 
+{"prompt": "viajo desde Barrancabermeja\n\n###\n\n", "completion": "ORIGIN: ['Barrancabermeja']\n###"} 
+{"prompt": "desde el aeropuerto de Medellin\n\n###\n\n", "completion": "ORIGIN: ['Medellin']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde Saravena\n\n###\n\n", "completion": "ORIGIN: ['Saravena']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "con origen en Florencia\n\n###\n\n", "completion": "ORIGIN: ['Florencia']\n###"} 
+{"prompt": "viajamos desde Capurgana\n\n###\n\n", "completion": "ORIGIN: ['Capurgana']\n###"} 
+{"prompt": "viajo desde Pitalito\n\n###\n\n", "completion": "ORIGIN: ['Pitalito']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de La Macarena\n\n###\n\n", "completion": "ORIGIN: ['La Macarena']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajamos desde Maicao\n\n###\n\n", "completion": "ORIGIN: ['Maicao']\n###"} 
+{"prompt": "originario de Sincelejo\n\n###\n\n", "completion": "ORIGIN: ['Sincelejo']\n###"} 
+{"prompt": "tomando el vuelo desde Pitalito\n\n###\n\n", "completion": "ORIGIN: ['Pitalito']\n###"} 
+{"prompt": "con partida desde Maicao\n\n###\n\n", "completion": "ORIGIN: ['Maicao']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "originario de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "con partida desde Puerto Asis\n\n###\n\n", "completion": "ORIGIN: ['Puerto Asis']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "iniciando el viaje desde Cucuta\n\n###\n\n", "completion": "ORIGIN: ['Cucuta']\n###"} 
+{"prompt": "partiendo de Villavicencio\n\n###\n\n", "completion": "ORIGIN: ['Villavicencio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "viajamos desde Neiva\n\n###\n\n", "completion": "ORIGIN: ['Neiva']\n###"} 
+{"prompt": "con origen en San Andres\n\n###\n\n", "completion": "ORIGIN: ['San Andres']\n###"} 
+{"prompt": "iniciando el viaje desde Pitalito\n\n###\n\n", "completion": "ORIGIN: ['Pitalito']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "tomando el vuelo desde Monteria\n\n###\n\n", "completion": "ORIGIN: ['Monteria']\n###"} 
+{"prompt": "viajo desde Maicao\n\n###\n\n", "completion": "ORIGIN: ['Maicao']\n###"} 
+{"prompt": "con salida desde Bahia Solano\n\n###\n\n", "completion": "ORIGIN: ['Bahia Solano']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "desde el aeropuerto de Puerto Leguizamo\n\n###\n\n", "completion": "ORIGIN: ['Puerto Leguizamo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "originario de Capurgana\n\n###\n\n", "completion": "ORIGIN: ['Capurgana']\n###"} 
+{"prompt": "originario de Bucaramanga\n\n###\n\n", "completion": "ORIGIN: ['Bucaramanga']\n###"} 
+{"prompt": "saliendo de San Andres\n\n###\n\n", "completion": "ORIGIN: ['San Andres']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "\n###"} 

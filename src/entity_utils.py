@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 import dateparser
 import requests
 
@@ -14,6 +15,8 @@ def parse_dates(dates):
     iso_dates = []
     for date in dates:
         temp_date = dateparser.parse(date)
+        if temp_date < datetime.now():
+                temp_date += timedelta(days=365)
         parsed_dates.append(temp_date)
         iso_dates.append(temp_date.isoformat())
     return iso_dates, parsed_dates

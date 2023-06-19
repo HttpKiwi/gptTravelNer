@@ -8,7 +8,7 @@ openai.api_key = api_key
 
 def ner(prompt):
     response = openai.Completion.create(
-        model="ada:ft-travelai-2023-06-12-16-29-55",
+        model="ada:ft-travelai:full-ner-2023-06-19-04-10-33",
         prompt=f"""{prompt}\n\n###\n\n""",
         max_tokens=1000,
         temperature=0.2,
@@ -22,7 +22,7 @@ def ner(prompt):
 
 def people_ner(prompt):
     response = openai.Completion.create(
-        model="ada:ft-travelai:people-ner-2023-06-18-05-52-46",
+        model="ada:ft-travelai:people-ner-2023-06-19-01-37-21",
         prompt=f"""{prompt}\n\n###\n\n""",
         max_tokens=1000,
         temperature=0.2,
@@ -46,7 +46,19 @@ def origin_ner(prompt):
 
 def duration_ner(prompt):
     response = openai.Completion.create(
-        model="ada:ft-travelai:duration-ner-2023-06-18-17-52-59",
+        model="ada:ft-travelai:duration-ner-2023-06-18-22-37-52",
+        prompt=f"""{prompt}\n\n###\n\n""",
+        max_tokens=1000,
+        temperature=0.2,
+        frequency_penalty=0,
+        presence_penalty=0,
+        stop=["\n###"],
+    )
+    return extract_type(response["choices"][0]["text"])
+
+def dates_ner(prompt):
+    response = openai.Completion.create(
+        model="ada:ft-travelai:dates-ner-2023-06-18-22-13-01",
         prompt=f"""{prompt}\n\n###\n\n""",
         max_tokens=1000,
         temperature=0.2,

@@ -1,0 +1,400 @@
+{"prompt": "entre la primera semana de Febrero y la segunda semana de Septiembre\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['7 de Septiembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la primera semana de Mayo y la ultima semana de Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Mayo']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 8 y 24 de Octubre\n\n###\n\n", "completion": "DATE: ['8 de Octubre']\nDATE: ['24 de Octubre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 23 y 27 de Marzo\n\n###\n\n", "completion": "DATE: ['23 de Marzo']\nDATE: ['27 de Marzo']\n###"} 
+{"prompt": "entre la primera semana de Febrero y la primera semana de Julio\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['1 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 28 y 29 de Julio\n\n###\n\n", "completion": "DATE: ['28 de Julio']\nDATE: ['29 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la tercera semana de Junio y la tercera semana de Mayo\n\n###\n\n", "completion": "DATE: ['14 de Junio']\nDATE: ['14 de Mayo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Abril y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la ultima semana de Enero y la cuarta semana de Mayo\n\n###\n\n", "completion": "DATE: ['28 de Enero']\nDATE: ['21 de Mayo']\n###"} 
+{"prompt": "entre el 19 y 31 de Julio\n\n###\n\n", "completion": "DATE: ['19 de Julio']\nDATE: ['31 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la segunda semana de Abril y la segunda semana de Julio\n\n###\n\n", "completion": "DATE: ['7 de Abril']\nDATE: ['7 de Julio']\n###"} 
+{"prompt": "entre el 17 y 21 de Mayo\n\n###\n\n", "completion": "DATE: ['17 de Mayo']\nDATE: ['21 de Mayo']\n###"} 
+{"prompt": "entre el 24 y 26 de Noviembre\n\n###\n\n", "completion": "DATE: ['24 de Noviembre']\nDATE: ['26 de Noviembre']\n###"} 
+{"prompt": "entre el 28 y 29 de Enero\n\n###\n\n", "completion": "DATE: ['28 de Enero']\nDATE: ['29 de Enero']\n###"} 
+{"prompt": "entre la primera semana de Febrero y la ultima semana de Marzo\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre Noviembre y Abril\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre la cuarta semana de Octubre y la segunda semana de Julio\n\n###\n\n", "completion": "DATE: ['21 de Octubre']\nDATE: ['7 de Julio']\n###"} 
+{"prompt": "entre Agosto y Enero\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la ultima semana de Octubre y la tercera semana de Agosto\n\n###\n\n", "completion": "DATE: ['28 de Octubre']\nDATE: ['14 de Agosto']\n###"} 
+{"prompt": "entre Diciembre y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 24 y 24 de Noviembre\n\n###\n\n", "completion": "DATE: ['24 de Noviembre']\nDATE: ['24 de Noviembre']\n###"} 
+{"prompt": "entre la ultima semana de Enero y la tercera semana de Febrero\n\n###\n\n", "completion": "DATE: ['28 de Enero']\nDATE: ['14 de Febrero']\n###"} 
+{"prompt": "entre la cuarta semana de Mayo y la ultima semana de Abril\n\n###\n\n", "completion": "DATE: ['21 de Mayo']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre Junio y Enero\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Octubre y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre Agosto y Septiembre\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Septiembre']\n###"} 
+{"prompt": "entre la tercera semana de Abril y la tercera semana de Marzo\n\n###\n\n", "completion": "DATE: ['14 de Abril']\nDATE: ['14 de Marzo']\n###"} 
+{"prompt": "entre la tercera semana de Octubre y la primera semana de Junio\n\n###\n\n", "completion": "DATE: ['14 de Octubre']\nDATE: ['1 de Junio']\n###"} 
+{"prompt": "entre el 1 y 13 de Septiembre\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['13 de Septiembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 2 y 13 de Agosto\n\n###\n\n", "completion": "DATE: ['2 de Agosto']\nDATE: ['13 de Agosto']\n###"} 
+{"prompt": "entre la primera semana de Marzo y la primera semana de Octubre\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['1 de Octubre']\n###"} 
+{"prompt": "entre Enero y Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "entre la tercera semana de Febrero y la primera semana de Agosto\n\n###\n\n", "completion": "DATE: ['14 de Febrero']\nDATE: ['1 de Agosto']\n###"} 
+{"prompt": "entre la cuarta semana de Marzo y la segunda semana de Abril\n\n###\n\n", "completion": "DATE: ['21 de Marzo']\nDATE: ['7 de Abril']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 8 y 18 de Junio\n\n###\n\n", "completion": "DATE: ['8 de Junio']\nDATE: ['18 de Junio']\n###"} 
+{"prompt": "entre el 22 y 25 de Julio\n\n###\n\n", "completion": "DATE: ['22 de Julio']\nDATE: ['25 de Julio']\n###"} 
+{"prompt": "entre la cuarta semana de Diciembre y la tercera semana de Agosto\n\n###\n\n", "completion": "DATE: ['21 de Diciembre']\nDATE: ['14 de Agosto']\n###"} 
+{"prompt": "entre el 9 y 22 de Junio\n\n###\n\n", "completion": "DATE: ['9 de Junio']\nDATE: ['22 de Junio']\n###"} 
+{"prompt": "entre Octubre y Julio\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "entre Febrero y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre Septiembre y Julio\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "entre Noviembre y Abril\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre el 7 y 7 de Mayo\n\n###\n\n", "completion": "DATE: ['7 de Mayo']\nDATE: ['7 de Mayo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Septiembre y Julio\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Febrero y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "entre el 23 y 26 de Diciembre\n\n###\n\n", "completion": "DATE: ['23 de Diciembre']\nDATE: ['26 de Diciembre']\n###"} 
+{"prompt": "entre el 2 y 9 de Agosto\n\n###\n\n", "completion": "DATE: ['2 de Agosto']\nDATE: ['9 de Agosto']\n###"} 
+{"prompt": "entre Agosto y Enero\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre el 20 y 25 de Agosto\n\n###\n\n", "completion": "DATE: ['20 de Agosto']\nDATE: ['25 de Agosto']\n###"} 
+{"prompt": "entre Octubre y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 10 y 12 de Noviembre\n\n###\n\n", "completion": "DATE: ['10 de Noviembre']\nDATE: ['12 de Noviembre']\n###"} 
+{"prompt": "entre la cuarta semana de Agosto y la tercera semana de Octubre\n\n###\n\n", "completion": "DATE: ['21 de Agosto']\nDATE: ['14 de Octubre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la cuarta semana de Julio y la segunda semana de Abril\n\n###\n\n", "completion": "DATE: ['21 de Julio']\nDATE: ['7 de Abril']\n###"} 
+{"prompt": "entre la ultima semana de Marzo y la cuarta semana de Junio\n\n###\n\n", "completion": "DATE: ['28 de Marzo']\nDATE: ['21 de Junio']\n###"} 
+{"prompt": "entre Abril y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la tercera semana de Mayo y la segunda semana de Diciembre\n\n###\n\n", "completion": "DATE: ['14 de Mayo']\nDATE: ['7 de Diciembre']\n###"} 
+{"prompt": "entre la segunda semana de Mayo y la segunda semana de Abril\n\n###\n\n", "completion": "DATE: ['7 de Mayo']\nDATE: ['7 de Abril']\n###"} 
+{"prompt": "entre Diciembre y Septiembre\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Septiembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Febrero y Febrero\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "entre Junio y Abril\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre el 24 y 26 de Abril\n\n###\n\n", "completion": "DATE: ['24 de Abril']\nDATE: ['26 de Abril']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Marzo y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre Julio y Abril\n\n###\n\n", "completion": "DATE: ['1 de Julio']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre Noviembre y Mayo\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Mayo']\n###"} 
+{"prompt": "entre el 16 y 24 de Diciembre\n\n###\n\n", "completion": "DATE: ['16 de Diciembre']\nDATE: ['24 de Diciembre']\n###"} 
+{"prompt": "entre Julio y Julio\n\n###\n\n", "completion": "DATE: ['1 de Julio']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Febrero y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre la cuarta semana de Diciembre y la tercera semana de Abril\n\n###\n\n", "completion": "DATE: ['21 de Diciembre']\nDATE: ['14 de Abril']\n###"} 
+{"prompt": "entre la cuarta semana de Diciembre y la ultima semana de Septiembre\n\n###\n\n", "completion": "DATE: ['21 de Diciembre']\nDATE: ['28 de Septiembre']\n###"} 
+{"prompt": "entre el 18 y 22 de Enero\n\n###\n\n", "completion": "DATE: ['18 de Enero']\nDATE: ['22 de Enero']\n###"} 
+{"prompt": "entre el 22 y 27 de Diciembre\n\n###\n\n", "completion": "DATE: ['22 de Diciembre']\nDATE: ['27 de Diciembre']\n###"} 
+{"prompt": "entre Abril y Abril\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre Julio y Abril\n\n###\n\n", "completion": "DATE: ['1 de Julio']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre Febrero y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre la segunda semana de Octubre y la primera semana de Junio\n\n###\n\n", "completion": "DATE: ['7 de Octubre']\nDATE: ['1 de Junio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la primera semana de Julio y la cuarta semana de Enero\n\n###\n\n", "completion": "DATE: ['1 de Julio']\nDATE: ['21 de Enero']\n###"} 
+{"prompt": "entre el 13 y 15 de Febrero\n\n###\n\n", "completion": "DATE: ['13 de Febrero']\nDATE: ['15 de Febrero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la ultima semana de Julio y la cuarta semana de Julio\n\n###\n\n", "completion": "DATE: ['28 de Julio']\nDATE: ['21 de Julio']\n###"} 
+{"prompt": "entre el 5 y 20 de Noviembre\n\n###\n\n", "completion": "DATE: ['5 de Noviembre']\nDATE: ['20 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la cuarta semana de Agosto y la ultima semana de Marzo\n\n###\n\n", "completion": "DATE: ['21 de Agosto']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la primera semana de Diciembre y la cuarta semana de Abril\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['21 de Abril']\n###"} 
+{"prompt": "entre el 11 y 24 de Noviembre\n\n###\n\n", "completion": "DATE: ['11 de Noviembre']\nDATE: ['24 de Noviembre']\n###"} 
+{"prompt": "entre la cuarta semana de Abril y la tercera semana de Julio\n\n###\n\n", "completion": "DATE: ['21 de Abril']\nDATE: ['14 de Julio']\n###"} 
+{"prompt": "entre Junio y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre el 29 y 31 de Marzo\n\n###\n\n", "completion": "DATE: ['29 de Marzo']\nDATE: ['31 de Marzo']\n###"} 
+{"prompt": "entre el 12 y 30 de Febrero\n\n###\n\n", "completion": "DATE: ['12 de Febrero']\nDATE: ['30 de Febrero']\n###"} 
+{"prompt": "entre el 25 y 31 de Marzo\n\n###\n\n", "completion": "DATE: ['25 de Marzo']\nDATE: ['31 de Marzo']\n###"} 
+{"prompt": "entre la primera semana de Mayo y la segunda semana de Agosto\n\n###\n\n", "completion": "DATE: ['1 de Mayo']\nDATE: ['7 de Agosto']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Marzo y Junio\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Julio y Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Julio']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "entre Octubre y Febrero\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "entre Agosto y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la segunda semana de Mayo y la ultima semana de Diciembre\n\n###\n\n", "completion": "DATE: ['7 de Mayo']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "entre el 8 y 18 de Diciembre\n\n###\n\n", "completion": "DATE: ['8 de Diciembre']\nDATE: ['18 de Diciembre']\n###"} 
+{"prompt": "entre la tercera semana de Noviembre y la cuarta semana de Octubre\n\n###\n\n", "completion": "DATE: ['14 de Noviembre']\nDATE: ['21 de Octubre']\n###"} 
+{"prompt": "entre la primera semana de Febrero y la primera semana de Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['1 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la cuarta semana de Octubre y la primera semana de Julio\n\n###\n\n", "completion": "DATE: ['21 de Octubre']\nDATE: ['1 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 19 y 29 de Febrero\n\n###\n\n", "completion": "DATE: ['19 de Febrero']\nDATE: ['29 de Febrero']\n###"} 
+{"prompt": "entre la tercera semana de Marzo y la cuarta semana de Febrero\n\n###\n\n", "completion": "DATE: ['14 de Marzo']\nDATE: ['21 de Febrero']\n###"} 
+{"prompt": "entre la primera semana de Octubre y la cuarta semana de Junio\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['21 de Junio']\n###"} 
+{"prompt": "entre Febrero y Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la primera semana de Enero y la segunda semana de Enero\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['7 de Enero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 26 y 29 de Enero\n\n###\n\n", "completion": "DATE: ['26 de Enero']\nDATE: ['29 de Enero']\n###"} 
+{"prompt": "entre la segunda semana de Marzo y la segunda semana de Septiembre\n\n###\n\n", "completion": "DATE: ['7 de Marzo']\nDATE: ['7 de Septiembre']\n###"} 
+{"prompt": "entre el 25 y 30 de Noviembre\n\n###\n\n", "completion": "DATE: ['25 de Noviembre']\nDATE: ['30 de Noviembre']\n###"} 
+{"prompt": "entre la cuarta semana de Diciembre y la primera semana de Mayo\n\n###\n\n", "completion": "DATE: ['21 de Diciembre']\nDATE: ['1 de Mayo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 26 y 27 de Noviembre\n\n###\n\n", "completion": "DATE: ['26 de Noviembre']\nDATE: ['27 de Noviembre']\n###"} 
+{"prompt": "entre el 18 y 27 de Agosto\n\n###\n\n", "completion": "DATE: ['18 de Agosto']\nDATE: ['27 de Agosto']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Octubre y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre la ultima semana de Septiembre y la tercera semana de Enero\n\n###\n\n", "completion": "DATE: ['28 de Septiembre']\nDATE: ['14 de Enero']\n###"} 
+{"prompt": "entre el 26 y 30 de Enero\n\n###\n\n", "completion": "DATE: ['26 de Enero']\nDATE: ['30 de Enero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Julio y Febrero\n\n###\n\n", "completion": "DATE: ['1 de Julio']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "entre Noviembre y Julio\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "entre el 2 y 5 de Febrero\n\n###\n\n", "completion": "DATE: ['2 de Febrero']\nDATE: ['5 de Febrero']\n###"} 
+{"prompt": "entre la tercera semana de Marzo y la primera semana de Junio\n\n###\n\n", "completion": "DATE: ['14 de Marzo']\nDATE: ['1 de Junio']\n###"} 
+{"prompt": "entre la cuarta semana de Febrero y la primera semana de Abril\n\n###\n\n", "completion": "DATE: ['21 de Febrero']\nDATE: ['1 de Abril']\n###"} 
+{"prompt": "entre Enero y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre Noviembre y Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la tercera semana de Octubre y la cuarta semana de Noviembre\n\n###\n\n", "completion": "DATE: ['14 de Octubre']\nDATE: ['21 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Octubre y Junio\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Noviembre y Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 25 y 30 de Agosto\n\n###\n\n", "completion": "DATE: ['25 de Agosto']\nDATE: ['30 de Agosto']\n###"} 
+{"prompt": "entre Febrero y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre la cuarta semana de Abril y la segunda semana de Noviembre\n\n###\n\n", "completion": "DATE: ['21 de Abril']\nDATE: ['7 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 20 y 21 de Mayo\n\n###\n\n", "completion": "DATE: ['20 de Mayo']\nDATE: ['21 de Mayo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 27 y 27 de Diciembre\n\n###\n\n", "completion": "DATE: ['27 de Diciembre']\nDATE: ['27 de Diciembre']\n###"} 
+{"prompt": "entre la segunda semana de Marzo y la cuarta semana de Octubre\n\n###\n\n", "completion": "DATE: ['7 de Marzo']\nDATE: ['21 de Octubre']\n###"} 
+{"prompt": "entre Octubre y Abril\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Enero y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Enero y Julio\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "entre el 27 y 30 de Diciembre\n\n###\n\n", "completion": "DATE: ['27 de Diciembre']\nDATE: ['30 de Diciembre']\n###"} 
+{"prompt": "entre el 11 y 13 de Agosto\n\n###\n\n", "completion": "DATE: ['11 de Agosto']\nDATE: ['13 de Agosto']\n###"} 
+{"prompt": "entre Septiembre y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 8 y 13 de Enero\n\n###\n\n", "completion": "DATE: ['8 de Enero']\nDATE: ['13 de Enero']\n###"} 
+{"prompt": "entre la ultima semana de Octubre y la ultima semana de Agosto\n\n###\n\n", "completion": "DATE: ['28 de Octubre']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre Febrero y Abril\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre Agosto y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la cuarta semana de Junio y la cuarta semana de Diciembre\n\n###\n\n", "completion": "DATE: ['21 de Junio']\nDATE: ['21 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la ultima semana de Enero y la tercera semana de Mayo\n\n###\n\n", "completion": "DATE: ['28 de Enero']\nDATE: ['14 de Mayo']\n###"} 
+{"prompt": "entre el 5 y 17 de Marzo\n\n###\n\n", "completion": "DATE: ['5 de Marzo']\nDATE: ['17 de Marzo']\n###"} 
+{"prompt": "entre el 11 y 31 de Agosto\n\n###\n\n", "completion": "DATE: ['11 de Agosto']\nDATE: ['31 de Agosto']\n###"} 
+{"prompt": "entre Enero y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la segunda semana de Noviembre y la ultima semana de Junio\n\n###\n\n", "completion": "DATE: ['7 de Noviembre']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre el 13 y 24 de Octubre\n\n###\n\n", "completion": "DATE: ['13 de Octubre']\nDATE: ['24 de Octubre']\n###"} 
+{"prompt": "entre la ultima semana de Octubre y la ultima semana de Junio\n\n###\n\n", "completion": "DATE: ['28 de Octubre']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre la cuarta semana de Julio y la tercera semana de Diciembre\n\n###\n\n", "completion": "DATE: ['21 de Julio']\nDATE: ['14 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Junio y Mayo\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Mayo']\n###"} 
+{"prompt": "entre la primera semana de Junio y la ultima semana de Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "entre la ultima semana de Marzo y la segunda semana de Mayo\n\n###\n\n", "completion": "DATE: ['28 de Marzo']\nDATE: ['7 de Mayo']\n###"} 
+{"prompt": "entre la segunda semana de Julio y la tercera semana de Enero\n\n###\n\n", "completion": "DATE: ['7 de Julio']\nDATE: ['14 de Enero']\n###"} 
+{"prompt": "entre el 7 y 16 de Marzo\n\n###\n\n", "completion": "DATE: ['7 de Marzo']\nDATE: ['16 de Marzo']\n###"} 
+{"prompt": "entre el 14 y 28 de Mayo\n\n###\n\n", "completion": "DATE: ['14 de Mayo']\nDATE: ['28 de Mayo']\n###"} 
+{"prompt": "entre Agosto y Junio\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Abril y Junio\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre el 20 y 31 de Agosto\n\n###\n\n", "completion": "DATE: ['20 de Agosto']\nDATE: ['31 de Agosto']\n###"} 
+{"prompt": "entre Febrero y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Diciembre y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la tercera semana de Julio y la ultima semana de Marzo\n\n###\n\n", "completion": "DATE: ['14 de Julio']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la tercera semana de Enero y la ultima semana de Octubre\n\n###\n\n", "completion": "DATE: ['14 de Enero']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre el 17 y 28 de Junio\n\n###\n\n", "completion": "DATE: ['17 de Junio']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Mayo y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Mayo']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la ultima semana de Junio y la segunda semana de Enero\n\n###\n\n", "completion": "DATE: ['28 de Junio']\nDATE: ['7 de Enero']\n###"} 
+{"prompt": "entre Septiembre y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 10 y 11 de Julio\n\n###\n\n", "completion": "DATE: ['10 de Julio']\nDATE: ['11 de Julio']\n###"} 
+{"prompt": "entre la primera semana de Febrero y la ultima semana de Junio\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Septiembre y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre el 2 y 25 de Abril\n\n###\n\n", "completion": "DATE: ['2 de Abril']\nDATE: ['25 de Abril']\n###"} 
+{"prompt": "entre la segunda semana de Noviembre y la ultima semana de Marzo\n\n###\n\n", "completion": "DATE: ['7 de Noviembre']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre el 17 y 21 de Febrero\n\n###\n\n", "completion": "DATE: ['17 de Febrero']\nDATE: ['21 de Febrero']\n###"} 
+{"prompt": "entre la primera semana de Abril y la ultima semana de Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 18 y 24 de Abril\n\n###\n\n", "completion": "DATE: ['18 de Abril']\nDATE: ['24 de Abril']\n###"} 
+{"prompt": "entre el 25 y 29 de Junio\n\n###\n\n", "completion": "DATE: ['25 de Junio']\nDATE: ['29 de Junio']\n###"} 
+{"prompt": "entre el 1 y 8 de Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['8 de Noviembre']\n###"} 
+{"prompt": "entre el 18 y 28 de Septiembre\n\n###\n\n", "completion": "DATE: ['18 de Septiembre']\nDATE: ['28 de Septiembre']\n###"} 
+{"prompt": "entre la primera semana de Marzo y la primera semana de Octubre\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['1 de Octubre']\n###"} 
+{"prompt": "entre Noviembre y Junio\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Junio y Mayo\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Mayo']\n###"} 
+{"prompt": "entre el 14 y 27 de Enero\n\n###\n\n", "completion": "DATE: ['14 de Enero']\nDATE: ['27 de Enero']\n###"} 
+{"prompt": "entre la primera semana de Septiembre y la segunda semana de Febrero\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['7 de Febrero']\n###"} 
+{"prompt": "entre Marzo y Septiembre\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Septiembre']\n###"} 
+{"prompt": "entre Marzo y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre Septiembre y Abril\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre la tercera semana de Julio y la segunda semana de Agosto\n\n###\n\n", "completion": "DATE: ['14 de Julio']\nDATE: ['7 de Agosto']\n###"} 
+{"prompt": "entre la segunda semana de Abril y la ultima semana de Julio\n\n###\n\n", "completion": "DATE: ['7 de Abril']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "entre Octubre y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre el 2 y 2 de Enero\n\n###\n\n", "completion": "DATE: ['2 de Enero']\nDATE: ['2 de Enero']\n###"} 
+{"prompt": "entre la cuarta semana de Noviembre y la segunda semana de Julio\n\n###\n\n", "completion": "DATE: ['21 de Noviembre']\nDATE: ['7 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Junio y Abril\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre la tercera semana de Marzo y la ultima semana de Septiembre\n\n###\n\n", "completion": "DATE: ['14 de Marzo']\nDATE: ['28 de Septiembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 7 y 18 de Marzo\n\n###\n\n", "completion": "DATE: ['7 de Marzo']\nDATE: ['18 de Marzo']\n###"} 
+{"prompt": "entre la tercera semana de Febrero y la segunda semana de Abril\n\n###\n\n", "completion": "DATE: ['14 de Febrero']\nDATE: ['7 de Abril']\n###"} 
+{"prompt": "entre el 14 y 14 de Mayo\n\n###\n\n", "completion": "DATE: ['14 de Mayo']\nDATE: ['14 de Mayo']\n###"} 
+{"prompt": "entre la segunda semana de Agosto y la cuarta semana de Enero\n\n###\n\n", "completion": "DATE: ['7 de Agosto']\nDATE: ['21 de Enero']\n###"} 
+{"prompt": "entre Noviembre y Mayo\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Mayo']\n###"} 
+{"prompt": "entre la cuarta semana de Junio y la tercera semana de Noviembre\n\n###\n\n", "completion": "DATE: ['21 de Junio']\nDATE: ['14 de Noviembre']\n###"} 
+{"prompt": "entre la segunda semana de Diciembre y la ultima semana de Noviembre\n\n###\n\n", "completion": "DATE: ['7 de Diciembre']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "entre el 13 y 13 de Septiembre\n\n###\n\n", "completion": "DATE: ['13 de Septiembre']\nDATE: ['13 de Septiembre']\n###"} 
+{"prompt": "entre Junio y Enero\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la cuarta semana de Noviembre y la ultima semana de Febrero\n\n###\n\n", "completion": "DATE: ['21 de Noviembre']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Enero y Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "entre Abril y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "entre Junio y Febrero\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "entre el 29 y 31 de Enero\n\n###\n\n", "completion": "DATE: ['29 de Enero']\nDATE: ['31 de Enero']\n###"} 
+{"prompt": "entre Febrero y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Agosto y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre Marzo y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la ultima semana de Mayo y la cuarta semana de Junio\n\n###\n\n", "completion": "DATE: ['28 de Mayo']\nDATE: ['21 de Junio']\n###"} 
+{"prompt": "entre el 25 y 27 de Mayo\n\n###\n\n", "completion": "DATE: ['25 de Mayo']\nDATE: ['27 de Mayo']\n###"} 
+{"prompt": "entre Febrero y Enero\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre el 18 y 21 de Septiembre\n\n###\n\n", "completion": "DATE: ['18 de Septiembre']\nDATE: ['21 de Septiembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 2 y 15 de Mayo\n\n###\n\n", "completion": "DATE: ['2 de Mayo']\nDATE: ['15 de Mayo']\n###"} 
+{"prompt": "entre Abril y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Diciembre y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "entre la tercera semana de Marzo y la segunda semana de Diciembre\n\n###\n\n", "completion": "DATE: ['14 de Marzo']\nDATE: ['7 de Diciembre']\n###"} 
+{"prompt": "entre la ultima semana de Abril y la ultima semana de Junio\n\n###\n\n", "completion": "DATE: ['28 de Abril']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Junio y Enero\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre Abril y Enero\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre Agosto y Junio\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Abril y Noviembre\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la primera semana de Abril y la primera semana de Septiembre\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['1 de Septiembre']\n###"} 
+{"prompt": "entre Diciembre y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre la primera semana de Septiembre y la tercera semana de Octubre\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['14 de Octubre']\n###"} 
+{"prompt": "entre el 28 y 28 de Abril\n\n###\n\n", "completion": "DATE: ['28 de Abril']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre la primera semana de Abril y la segunda semana de Mayo\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['7 de Mayo']\n###"} 
+{"prompt": "entre Diciembre y Septiembre\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Septiembre']\n###"} 
+{"prompt": "entre el 13 y 24 de Junio\n\n###\n\n", "completion": "DATE: ['13 de Junio']\nDATE: ['24 de Junio']\n###"} 
+{"prompt": "entre el 18 y 30 de Junio\n\n###\n\n", "completion": "DATE: ['18 de Junio']\nDATE: ['30 de Junio']\n###"} 
+{"prompt": "entre el 5 y 29 de Octubre\n\n###\n\n", "completion": "DATE: ['5 de Octubre']\nDATE: ['29 de Octubre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la ultima semana de Agosto y la ultima semana de Febrero\n\n###\n\n", "completion": "DATE: ['28 de Agosto']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "entre la tercera semana de Diciembre y la tercera semana de Octubre\n\n###\n\n", "completion": "DATE: ['14 de Diciembre']\nDATE: ['14 de Octubre']\n###"} 
+{"prompt": "entre Marzo y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre el 12 y 22 de Octubre\n\n###\n\n", "completion": "DATE: ['12 de Octubre']\nDATE: ['22 de Octubre']\n###"} 
+{"prompt": "entre el 6 y 15 de Diciembre\n\n###\n\n", "completion": "DATE: ['6 de Diciembre']\nDATE: ['15 de Diciembre']\n###"} 
+{"prompt": "entre el 2 y 6 de Noviembre\n\n###\n\n", "completion": "DATE: ['2 de Noviembre']\nDATE: ['6 de Noviembre']\n###"} 
+{"prompt": "entre el 6 y 8 de Marzo\n\n###\n\n", "completion": "DATE: ['6 de Marzo']\nDATE: ['8 de Marzo']\n###"} 
+{"prompt": "entre Diciembre y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre Enero y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "entre Septiembre y Junio\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "entre Octubre y Mayo\n\n###\n\n", "completion": "DATE: ['1 de Octubre']\nDATE: ['28 de Mayo']\n###"} 
+{"prompt": "entre el 10 y 14 de Julio\n\n###\n\n", "completion": "DATE: ['10 de Julio']\nDATE: ['14 de Julio']\n###"} 
+{"prompt": "entre el 4 y 9 de Junio\n\n###\n\n", "completion": "DATE: ['4 de Junio']\nDATE: ['9 de Junio']\n###"} 
+{"prompt": "entre Agosto y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 15 y 16 de Abril\n\n###\n\n", "completion": "DATE: ['15 de Abril']\nDATE: ['16 de Abril']\n###"} 
+{"prompt": "entre la tercera semana de Agosto y la primera semana de Enero\n\n###\n\n", "completion": "DATE: ['14 de Agosto']\nDATE: ['1 de Enero']\n###"} 
+{"prompt": "entre el 2 y 6 de Mayo\n\n###\n\n", "completion": "DATE: ['2 de Mayo']\nDATE: ['6 de Mayo']\n###"} 
+{"prompt": "entre la tercera semana de Enero y la primera semana de Diciembre\n\n###\n\n", "completion": "DATE: ['14 de Enero']\nDATE: ['1 de Diciembre']\n###"} 
+{"prompt": "entre el 14 y 16 de Diciembre\n\n###\n\n", "completion": "DATE: ['14 de Diciembre']\nDATE: ['16 de Diciembre']\n###"} 
+{"prompt": "entre el 18 y 22 de Diciembre\n\n###\n\n", "completion": "DATE: ['18 de Diciembre']\nDATE: ['22 de Diciembre']\n###"} 
+{"prompt": "entre el 27 y 28 de Julio\n\n###\n\n", "completion": "DATE: ['27 de Julio']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "entre el 23 y 27 de Octubre\n\n###\n\n", "completion": "DATE: ['23 de Octubre']\nDATE: ['27 de Octubre']\n###"} 
+{"prompt": "entre Noviembre y Enero\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre el 9 y 9 de Febrero\n\n###\n\n", "completion": "DATE: ['9 de Febrero']\nDATE: ['9 de Febrero']\n###"} 
+{"prompt": "entre Junio y Enero\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre el 9 y 21 de Enero\n\n###\n\n", "completion": "DATE: ['9 de Enero']\nDATE: ['21 de Enero']\n###"} 
+{"prompt": "entre el 15 y 25 de Noviembre\n\n###\n\n", "completion": "DATE: ['15 de Noviembre']\nDATE: ['25 de Noviembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la ultima semana de Agosto y la cuarta semana de Mayo\n\n###\n\n", "completion": "DATE: ['28 de Agosto']\nDATE: ['21 de Mayo']\n###"} 
+{"prompt": "entre la segunda semana de Noviembre y la tercera semana de Marzo\n\n###\n\n", "completion": "DATE: ['7 de Noviembre']\nDATE: ['14 de Marzo']\n###"} 
+{"prompt": "entre Noviembre y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre Julio y Febrero\n\n###\n\n", "completion": "DATE: ['1 de Julio']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la cuarta semana de Julio y la primera semana de Diciembre\n\n###\n\n", "completion": "DATE: ['21 de Julio']\nDATE: ['1 de Diciembre']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Marzo y Enero\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre el 23 y 26 de Agosto\n\n###\n\n", "completion": "DATE: ['23 de Agosto']\nDATE: ['26 de Agosto']\n###"} 
+{"prompt": "entre el 28 y 28 de Febrero\n\n###\n\n", "completion": "DATE: ['28 de Febrero']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "entre el 24 y 31 de Noviembre\n\n###\n\n", "completion": "DATE: ['24 de Noviembre']\nDATE: ['31 de Noviembre']\n###"} 
+{"prompt": "entre Marzo y Octubre\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre el 27 y 28 de Febrero\n\n###\n\n", "completion": "DATE: ['27 de Febrero']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "entre Agosto y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre Noviembre y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre Noviembre y Julio\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre el 14 y 25 de Junio\n\n###\n\n", "completion": "DATE: ['14 de Junio']\nDATE: ['25 de Junio']\n###"} 
+{"prompt": "entre Marzo y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre el 3 y 31 de Diciembre\n\n###\n\n", "completion": "DATE: ['3 de Diciembre']\nDATE: ['31 de Diciembre']\n###"} 
+{"prompt": "entre el 5 y 31 de Marzo\n\n###\n\n", "completion": "DATE: ['5 de Marzo']\nDATE: ['31 de Marzo']\n###"} 
+{"prompt": "entre la primera semana de Diciembre y la ultima semana de Enero\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre la cuarta semana de Junio y la primera semana de Septiembre\n\n###\n\n", "completion": "DATE: ['21 de Junio']\nDATE: ['1 de Septiembre']\n###"} 
+{"prompt": "entre la segunda semana de Diciembre y la segunda semana de Marzo\n\n###\n\n", "completion": "DATE: ['7 de Diciembre']\nDATE: ['7 de Marzo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Mayo y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Mayo']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre Junio y Abril\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre la primera semana de Agosto y la cuarta semana de Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['21 de Diciembre']\n###"} 
+{"prompt": "entre Junio y Enero\n\n###\n\n", "completion": "DATE: ['1 de Junio']\nDATE: ['28 de Enero']\n###"} 
+{"prompt": "entre Marzo y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre el 2 y 25 de Julio\n\n###\n\n", "completion": "DATE: ['2 de Julio']\nDATE: ['25 de Julio']\n###"} 
+{"prompt": "entre la cuarta semana de Julio y la ultima semana de Marzo\n\n###\n\n", "completion": "DATE: ['21 de Julio']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre el 24 y 27 de Diciembre\n\n###\n\n", "completion": "DATE: ['24 de Diciembre']\nDATE: ['27 de Diciembre']\n###"} 
+{"prompt": "entre Febrero y Mayo\n\n###\n\n", "completion": "DATE: ['1 de Febrero']\nDATE: ['28 de Mayo']\n###"} 
+{"prompt": "entre el 9 y 22 de Junio\n\n###\n\n", "completion": "DATE: ['9 de Junio']\nDATE: ['22 de Junio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la tercera semana de Septiembre y la ultima semana de Febrero\n\n###\n\n", "completion": "DATE: ['14 de Septiembre']\nDATE: ['28 de Febrero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la cuarta semana de Diciembre y la ultima semana de Junio\n\n###\n\n", "completion": "DATE: ['21 de Diciembre']\nDATE: ['28 de Junio']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la ultima semana de Noviembre y la ultima semana de Octubre\n\n###\n\n", "completion": "DATE: ['28 de Noviembre']\nDATE: ['28 de Octubre']\n###"} 
+{"prompt": "entre Septiembre y Abril\n\n###\n\n", "completion": "DATE: ['1 de Septiembre']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre el 2 y 15 de Abril\n\n###\n\n", "completion": "DATE: ['2 de Abril']\nDATE: ['15 de Abril']\n###"} 
+{"prompt": "entre Agosto y Agosto\n\n###\n\n", "completion": "DATE: ['1 de Agosto']\nDATE: ['28 de Agosto']\n###"} 
+{"prompt": "entre Enero y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Enero']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "entre la primera semana de Marzo y la tercera semana de Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['14 de Diciembre']\n###"} 
+{"prompt": "entre la ultima semana de Junio y la segunda semana de Febrero\n\n###\n\n", "completion": "DATE: ['28 de Junio']\nDATE: ['7 de Febrero']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Diciembre y Diciembre\n\n###\n\n", "completion": "DATE: ['1 de Diciembre']\nDATE: ['28 de Diciembre']\n###"} 
+{"prompt": "entre Abril y Abril\n\n###\n\n", "completion": "DATE: ['1 de Abril']\nDATE: ['28 de Abril']\n###"} 
+{"prompt": "entre Marzo y Julio\n\n###\n\n", "completion": "DATE: ['1 de Marzo']\nDATE: ['28 de Julio']\n###"} 
+{"prompt": "entre el 19 y 29 de Mayo\n\n###\n\n", "completion": "DATE: ['19 de Mayo']\nDATE: ['29 de Mayo']\n###"} 
+{"prompt": "entre Mayo y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Mayo']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre Noviembre y Marzo\n\n###\n\n", "completion": "DATE: ['1 de Noviembre']\nDATE: ['28 de Marzo']\n###"} 
+{"prompt": "\n\n###\n\n", "completion": "###"} 
+{"prompt": "entre la segunda semana de Septiembre y la cuarta semana de Mayo\n\n###\n\n", "completion": "DATE: ['7 de Septiembre']\nDATE: ['21 de Mayo']\n###"} 
