@@ -52,7 +52,7 @@ def get_random_origin():
         ]
 
         rand_origin = get_random(places)
-        completion = f"ORIGIN: ['{rand_origin}']"
+        completion = f"ORIGIN: ['{rand_origin}']\n"
         query_string = f"{random.choice(rand_string)} {rand_origin}"
 
         return query_string, completion
@@ -93,7 +93,7 @@ def complete_people():
     complete_string = ""
     verbs = ["Somos", "Son", "viajamos", "iremos", ""]
     if coin_flip():
-        return "", "PEOPLE: ['familia']"
+        return "", "PEOPLE: ['familia']\n"
     adults = random.randint(1, 8)
     children = random.randint(0, 8)
     infants = random.randint(0, 2)
@@ -230,6 +230,7 @@ def get_value():
             "con un valor que no exceda",
             "con un importe menor a",
             "que tenga un precio menor que",
+            "con un presupuesto de"
         ]
     )
     val = random.randint(3, 20)
@@ -356,7 +357,7 @@ def create_artificial_queries():
         else:
             final_destination = event
             temp_query = f"{get_random(verbs)} {final_destination} {people_q}{origin_q}{airline_q} {days_q} y {get_random(hosting_verb)} un airbnb {accom_q}{ammenity}{value}. {complete_people_q}\n\n###\n\n"
-            completion = f"EVENT: ['{event}']\n{airline_comp}{airline_incl_comp}{days_comp}\nVALUE: ['{num_value}']\n{people_comp}{origin_comp}{complete_people_comp}{accom_comp}{ammenity_comp}###"
+            completion = f"EVENT: ['{event}']\n{airline_comp}{airline_incl_comp}{days_comp}VALUE: ['{num_value}']\n{people_comp}{origin_comp}{complete_people_comp}{accom_comp}{ammenity_comp}###"
         training_prompt = Prompt(temp_query, completion)
         queries.append(training_prompt)
     save_jsonl("training_gpt.jsonl", queries)
@@ -417,6 +418,20 @@ def create_training_answers_dates():
 
     save_jsonl("training_dates.jsonl", queries)
 
+def create_training_answers_budget():
+    queries = []
+
+    for n in range(400):
+        query, comp = get_value()
+
+        prompt = f"{query}\n\n###\n\n"
+        completion = f"VALUE: ['{comp}']\n###"
+        
+        training_data = Prompt(prompt, completion)
+        queries.append(training_data)
+
+    save_jsonl("training_budget.jsonl", queries)
+
 def create_training_patterns():
     types = ["EVENT", "PEOPLE", "PLACE", "MODIFIER", "AIRLINE", "MONTH", "AMMENITY"]
     patterns = []
@@ -446,5 +461,6 @@ create_training_answers_people()
 create_training_answers_origin()
 create_training_answers_duration()
 create_training_answers_dates()
+create_training_answers_budget()
 """ print(patterns) """
 """ generate_rules(patterns) """

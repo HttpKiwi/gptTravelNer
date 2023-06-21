@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from src.prompt import ner, people_ner, origin_ner, duration_ner, dates_ner
+from src.prompt import ner, people_ner, origin_ner, duration_ner, dates_ner, budget_ner
 from flask_cors import CORS, cross_origin
 from src.api import minizinc_api
 
@@ -19,8 +19,7 @@ def hello():
 def check_in():
     data = request.get_json(force=True)
     mzc = minizinc_api(data)
-    response = jsonify(mzc)
-    return response
+    return mzc
 
 @app.route("/people/<query>", methods=["GET"])
 @cross_origin()
@@ -51,6 +50,13 @@ def duration(query):
 def dates(query):
     res = dates_ner(query)
     return jsonify(res)
+
+@app.route("/budget/<query>", methods=["GET"])
+@cross_origin()
+def budget(query):
+    res = budget_ner(query)
+    return jsonify(res)
+
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", debug=True)

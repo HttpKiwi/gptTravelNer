@@ -84,8 +84,9 @@ def ent_from_data(entities, ent_type):
                     [matched["startDate"], matched["endDate"]]
                 )
                 temporal_duration = abs(
-                    (dates_parse[0] - dates_parse[1]).days
+                    (dates_parse[1] - dates_parse[0]).days
                 ) + 1
+                print(temporal_duration)
                 print(dates_iso)
                 return {
                     "destination": {
