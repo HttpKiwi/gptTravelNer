@@ -23,8 +23,8 @@
 	{
 		"value": "Fiesta de la Candelaria",
 		"key": "CTG",
-		"startDate": "26-01-2024",
-		"endDate": "02-01-2024",
+		"startDate": "02-01-2024",
+		"endDate": "26-01-2024",
 		"location": "Cartagena"
 	},
 	{
@@ -86,8 +86,8 @@
 	{
 		"value": "Festival de la Cultura Wayuu",
 		"key": "URA",
-		"startDate": "31-05-2024",
-		"endDate": "02-05-2024",
+		"startDate": "02-05-2024",
+		"endDate": "31-05-2024",
 		"location": "Uribia"
 	},
 	{
@@ -107,8 +107,8 @@
 	{
 		"value": "Feria de las Flores",
 		"key": "MDE",
-		"startDate": "28-07-2023",
-		"endDate": "07-08-2023",
+		"startDate": "07-08-2023",
+		"endDate": "28-07-2023",
 		"location": "Medellín"
 	},
 	{
